@@ -1,6 +1,20 @@
-A random experiment
-Event
-Probability
-Joint Probability
-Conditional Probability
-Bayes Rule
+Space  is set of all outcomes - sample space = { 'head', 'tail'}
+
+Random experiment is an experiment or a process for which the outcome cannot be predicted with certainity
+
+Event a set of outcomes of a random experiment, event {'head'}  {'tail'}
+
+Probability is defined for an event and is the measure of the likelihood that an event will occur, it is quantified as a number between 0 and 1
+
+P(A)  - The probability of an even A occuring 
+
+1 - P(A) - The probability of an event A not occurning
+
+Joint Probability - if two events A and B are independent, then joint probability is P(A and B) = P(A) P(B)
+
+Conditional Probability is the probability of some event A, given the occurence of another event B.
+                          P(A|B)  Probability of A given B 
+                          P(A|B) = P(A and B) / P(B)    Provide P(B) is not equals to zero
+
+Bayes Rule describes the probability of an event A based on another event B that is realted to A.
+                      P(A|B) = P(B|A) P(A) / P(B)   provided P(B) is not equals to zero
