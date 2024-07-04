@@ -1,0 +1,33 @@
+Random variables is a function that can assign probabilties of events of interest in a random experiment
+P(head) = 0.6
+P(tail) = 0.4
+P(X=1) = 0.6
+P(X=0) = 0.4
+
+Two types of random variables
+
+Discrete random variables have a countable number of values. For example, faces of dice, number of emails received in an hour
+Discrete random variables are defined using a Probability Mass Functions(PMF)  P(X = x)
+
+To find the probability of rolling a dice and getting a number less than 5 ? 
+In this case we have to use Cumulative Distribution Function (CDF). The cumulative distribution function gives us the cumulative probability associated
+with function F(X) = P(X <= x) = Sum of values of xi < x  P(X = xi)
+
+Rolling dice example
+Probability of getting 1 is 1/6
+Prabability of gettting 2 is 2/6
+Proability of getting 3 is 3/6
+Probability of getting 4 is 4/6
+Probabilty of getting 5 is 5/6
+Probability of getting 6 is 6/6
+
+Then the Probability of seeing a number equal or less than five is P(X <= 5) = 5/6
+
+We can say the probability of seeing a number greater than five is P(X > 5) = 1 - ( 5/6 ) = 1/6
+
+
+Continuous random variables can take values in a infinite continuum. For example, hieght of a person, time to failure etc
+Continuous random variables are defined using Probability Density Function (PDF), denoted f(x) , it defines a probability distribution for a continuous random variable
+
+f(x) d(x) = P( x <= x <= x + dx) integrating to 1
+
