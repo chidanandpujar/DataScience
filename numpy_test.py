@@ -23,4 +23,21 @@ print('=============')
 print(E.dot(D))
 print(np.dot(E, D))
 
+#Inverse of a matrix
+F = np.random.randn(3,3)
+F_inverse = np.linalg.inv(F)
+print(F_inverse)
+
+# dot product of matrix and its inverse of matrix is same
+print(F.dot(F_inverse))
+print(F_inverse.dot(F))
+
+#Transpose of a matrix
+A = np.arange(6).reshape((3,2))
+B = np.arange(8).reshape((2,4))
+print(A)
+print(A.T)
+
+# (AB)T = BT AT
+
 
