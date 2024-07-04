@@ -11,4 +11,16 @@ print(B)
 C = np.random.randn(2)
 print(C)
 
-# 
+# To multiply matrices
+D = np.random.randn(4,3)
+E = np.random.randn(3,4)
+print(np.shape(D))
+print(np.shape(E))
+
+print(D.dot(E))
+print(np.dot(D, E))
+print('=============')
+print(E.dot(D))
+print(np.dot(E, D))
+
+
