@@ -1,0 +1,6 @@
+A random experiment
+Event
+Probability
+Joint Probability
+Conditional Probability
+Bayes Rule
