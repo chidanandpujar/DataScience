@@ -40,4 +40,13 @@ print(A.T)
 
 # (AB)T = BT AT
 
+# Extract values from matrices/arrays
+A = np.array[(0,1), (2,3), (4,5)]
+print(A)
+
+print(A[:,1] > 4)
+print(np.argmax(A[:,1] >4))
+print(A[A[:,1] >4])
+
+
 
