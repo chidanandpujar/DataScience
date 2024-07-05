@@ -1,0 +1,8 @@
+Scaling refers to the process of converting a set of values to a new range of values. In a dataset , we have several features.
+The raw or unscaled fatures can be of different ranges, which may cause problems while training a model.
+
+Normalisation is a scaling technique use to transform the values of a dataset into a common range. 
+This is often done to improve the peformance of machine learning algorithm, as many algorithms operate
+when the data is in a standardized range.
+
+min-max scaler
