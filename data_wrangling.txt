@@ -1,0 +1,10 @@
+Data wrangling or data munging is hte process of cleaning, transforming and organizing a dataset to make it suitable for analysis.
+It is the process of convering raw, unstructured data and turn into a form that is suitable for analysis and insights
+
+  Identifying and correcting errors and inconsisties in the data
+  Handling missing or incomplete values
+  Combining multiple datasets
+  Converting the data into a format that suitable for analysis
+  Identifying and removing outliers 
+  Normalizing the data
+  Aggragating the data into useful summary statistics
