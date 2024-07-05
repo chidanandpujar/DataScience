@@ -8,3 +8,9 @@ It is the process of convering raw, unstructured data and turn into a form that 
   Identifying and removing outliers 
   Normalizing the data
   Aggragating the data into useful summary statistics
+
+Python libraries 
+Numpy
+SciPy
+matplotlib
+Sickit-learn
