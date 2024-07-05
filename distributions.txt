@@ -1,0 +1,8 @@
+Bernoulli disribution
+
+Uniform distribution
+
+Normal distribution
+
+Central limit theorem
+
