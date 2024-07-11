@@ -1,0 +1,13 @@
+Linear transformation
+Transpose of a matrix
+Polynomial
+Quadratic equation
+Squishification
+determinant of matrix
+singular value decomposition
+a) Rotation matrix - Matrix which rotates a vector by 0 value  ( cos0 -sin0 )
+                                                               ( sin0  cos0 )
+
+stretching a vector by alpha  ( alpha 0)
+                              (0    alpha)
+
