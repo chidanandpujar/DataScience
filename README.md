@@ -1,14 +1,11 @@
-# datascience
-Data Science Info
-
-#Artificial Intelligence:
+Artificial Intelligence:
 
   https://www.youtube.com/watch?v=qYNweeDHiyU
 
-#AI vs ML:
+AI vs ML:
   https://www.youtube.com/watch?v=vdUQfoCwiNc
 
-#Machine Learning as an equation:
+Machine Learning as an equation:
   A computer program is said to learn from experience E with respect to some class of tasks T 
   and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
   Experience E is the information the machine processes using the taks T, 
