@@ -67,8 +67,11 @@ Let’s look at a few examples where machine learning is being applied.
       A wide variety of machine learning applications are related to:
 
       healthcare analytics
+      
       stock market prediction
+      
       business analytics
+      
       facial recognition
 
 Machine Learning steps:
