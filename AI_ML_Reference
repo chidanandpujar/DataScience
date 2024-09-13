@@ -1,1 +1,59 @@
+Artificial Intelligence:
 
+  https://www.youtube.com/watch?v=qYNweeDHiyU
+  https://www.youtube.com/watch?v=qYNweeDHiyU
+
+
+Machine Learning as an equation:
+  A computer program is said to learn from experience E with respect to some class of tasks T 
+  and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
+  Experience E is the information the machine processes using the taks T, 
+  to get to closer to what you want to produce, the performance measure P.
+
+  How humans learns, by analysing the data, finding the patterns and use 
+  the patterns to make decisions or to predict the outcome of future events.
+  What happens when we have too much data ?
+  Whether humans have the ability to analyse and find the patterns from volume of data.
+  Why do we need ML? 
+    It is all about the volume of the data available to us,
+    ML will learn from the data we give them and, importantly, respond to changes in the data they are given to produce useful results.
+
+  https://www.youtube.com/watch?v=vdUQfoCwiNc
+
+Real World applications of machine learning:
+
+Machine learning involves the use of computer algorithms to learn how to perform different tasks.
+Let’s look at a few examples where machine learning is being applied.
+
+  1) Robotics:
+      Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots 
+  2)  Computer Vision:
+      https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s
+  3)  Board Games:
+    In March 2016; AlphaGo, the board-game-playing AI from Google’s DeepMind beat Korean Go Champion Lee Sedol 4-1. 
+    AlphaGo uses deep neural networks and Monte Carlo tree search.
+
+    Watch this 3 minute trailer for the AlphaGo documentary. 
+    The win is a defining moment in AI similar to when the computer, Deep Blue, beat Garry Kasparov at chess in 1996.
+
+  4)  Voice Recognition:
+      Technologies such as Siri and Google Home are examples of this. Siri uses speech recognizer, 
+      natural language processing and text-to-speech techniques.
+      The Australian Government Tax Office now holds millions of voice prints to identify Australians.
+      Their voice is compared with a stored voiceprint which captures more than 140 unique physical and 
+      behavioural characteristics of a person such as length of the vocal tract and nasal passage, 
+      the size and shape of the larynx, pitch, cadence and accent. (Nott, 2016)
+      
+      How would you go at recognising people by voice? How about a million people? This is where machine learning excels.
+  5)  Digit Recognition:
+      Digit Recognition is the task of reading in the images of handwritten numbers and letters and 
+      outputting its machine-encoded equivalent. Machine Learning methods (SVM and Deep Learning) have hit >99% accuracy for this task.
+      Other examples are detection of numberplates, printed numbers on bills, handwriting and CAPTCHA.
+
+  6)  Other interesting applications
+      A wide variety of machine learning applications are related to:
+
+      healthcare analytics: diagnosis and prognosis
+      stock market prediction
+      business analytics
+      facial recognition
