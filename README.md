@@ -111,9 +111,7 @@ Machine Learning steps:
   Supervised learning
 
   Unsupervised learning overview
-  
-    https://www.youtube.com/watch?v=mWxhsBFatvA
+  https://www.youtube.com/watch?v=mWxhsBFatvA
 
   Reinforcement learning
-  
-    https://www.youtube.com/watch?v=vRcW5LDB7ng
+  https://www.youtube.com/watch?v=vRcW5LDB7ng
