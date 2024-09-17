@@ -144,38 +144,58 @@ https://www.youtube.com/watch?v=2IK3DFHRFfw
 AI youtube channels:
 
 https://www.youtube.com/@3blue1brown/videos
+
 https://www.youtube.com/@howardjeremyp
+
 https://www.youtube.com/user/hugolarochelle
 
 
 Reference:
 https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb
+
 https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
+
 https://kdd.org/conferences
+
 https://www.explainthatstuff.com/introduction-to-neural-networks.html
+
 https://www.deeplearningbook.org/
+
 http://neuralnetworksanddeeplearning.com/about.html
+
 https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
+
 https://keras.io/examples/
 
 Tools
+
 Tensorflow (Google)
+
 Keras
+
 Lasange, Keras
+
 Caffe(Berkeley)
+
 Torch(Facebook)
+
 Deep Scalable Sparse Tensor Network Engine (DSSTNE)(Amazon)
+
 MatConvNet(Oxford, MATLAB)
 
 Books:
+
 Deep learning textbook (Goodfellow et. al., 2016) https://www.deeplearningbook.org/
+
 Deep learning: an overview (Jurgen, 2015) https://arxiv.org/abs/1404.7828
+
 Deep learning (Michael Nielsen, 2016) http://neuralnetworksanddeeplearning.com/
+
 A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1
 
-AI Energy Crisis:
-https://www.youtube.com/watch?v=MJQIQJYxey4
-
 AI Documentaries:
+
 https://www.youtube.com/watch?v=aZ5EsdnpLMI ( 60Minutes Artificial Intelligence)
+
+https://www.youtube.com/watch?v=MJQIQJYxey4
 
