@@ -84,11 +84,15 @@ Let’s look at a few examples where machine learning is being applied.
       facial recognition
 
 Types:
+
 Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
+
 Unsupervised Learning: Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
+
 Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
   https://www.youtube.com/watch?v=mWxhsBFatvA
+  
   https://www.youtube.com/watch?v=vRcW5LDB7ng
 
 Machine Learning steps:
@@ -100,7 +104,6 @@ Evaluation: Assessing the model's performance using metrics like accuracy, preci
 Deployment: Integrating the trained model into real-world applications.
 
   Step 1: Data Manipulation
-  
     This is a process of data preparation. ML usually uses the largest sets of data available.
     The first step in data manipulation is Data Acquisition. 
 
@@ -115,7 +118,6 @@ Deployment: Integrating the trained model into real-world applications.
     redundancy and missing values. We might delete any three-wheeled cars because they’re so unusual.
 
   Step 2: Analytics
-  
     The second main step in machine learning is Analytics. Analytics mainly involves finding relationships and 
     correlations in the prepared data in order to design an accurate model based on that input data.
 
@@ -128,7 +130,6 @@ Deployment: Integrating the trained model into real-world applications.
     intelligent system for decision making.
   
   Step 3: Evaluation and Visualisation
-  
     The final result of Analytics is an intelligent system or model. As the last step of ML design, we have to evaluate the performance of the system. 
     “Did I choose the right car?”
 
@@ -150,7 +151,8 @@ https://www.youtube.com/@howardjeremyp
 https://www.youtube.com/user/hugolarochelle
 
 
-Reference:
+References:
+
 https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb
 
 https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
@@ -172,16 +174,6 @@ Tools
 Tensorflow (Google)
 
 Keras
-
-Lasange, Keras
-
-Caffe(Berkeley)
-
-Torch(Facebook)
-
-Deep Scalable Sparse Tensor Network Engine (DSSTNE)(Amazon)
-
-MatConvNet(Oxford, MATLAB)
 
 Books:
 
