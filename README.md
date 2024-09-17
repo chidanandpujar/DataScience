@@ -1,5 +1,14 @@
 Artificial Intelligence:
 
+Introduction
+Artificial Intelligence (AI) and Machine Learning (ML) are no longer just buzzwords; they're reshaping industries and our daily lives. Let's delve into what they are and how they're changing the world.
+
+What is AI?
+Definition: AI is the simulation of human intelligence in machines, programmed to think and learn like humans.
+Subfields:
+Narrow AI: Designed for specific tasks (e.g., facial recognition, self-driving cars).
+General AI: Capable of understanding, learning, and applying knowledge across domains.
+
   https://www.youtube.com/watch?v=qYNweeDHiyU
 
 AI vs ML:
@@ -74,7 +83,21 @@ Let’s look at a few examples where machine learning is being applied.
       
       facial recognition
 
+Types:
+Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
+Unsupervised Learning: Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
+Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
+
+  https://www.youtube.com/watch?v=mWxhsBFatvA
+  https://www.youtube.com/watch?v=vRcW5LDB7ng
+
 Machine Learning steps:
+
+Data Acquisition: Gathering relevant data is essential for training ML models.
+Data Preparation: Cleaning, preprocessing, and feature engineering are crucial steps.
+Model Selection and Training: Choosing the appropriate ML algorithm and training it on the data.
+Evaluation: Assessing the model's performance using metrics like accuracy, precision, and recall.
+Deployment: Integrating the trained model into real-world applications.
 
   Step 1: Data Manipulation
   
@@ -114,10 +137,45 @@ Machine Learning steps:
 
     https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s
 
-  Supervised learning
+Generative AI:
 
-  Unsupervised learning overview
-  https://www.youtube.com/watch?v=mWxhsBFatvA
+https://www.youtube.com/watch?v=2IK3DFHRFfw
 
-  Reinforcement learning
-  https://www.youtube.com/watch?v=vRcW5LDB7ng
+AI youtube channels:
+
+https://www.youtube.com/@3blue1brown/videos
+https://www.youtube.com/@howardjeremyp
+https://www.youtube.com/user/hugolarochelle
+
+
+Reference:
+https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb
+https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
+https://kdd.org/conferences
+https://www.explainthatstuff.com/introduction-to-neural-networks.html
+https://www.deeplearningbook.org/
+http://neuralnetworksanddeeplearning.com/about.html
+https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
+https://keras.io/examples/
+
+Tools
+Tensorflow (Google)
+Keras
+Lasange, Keras
+Caffe(Berkeley)
+Torch(Facebook)
+Deep Scalable Sparse Tensor Network Engine (DSSTNE)(Amazon)
+MatConvNet(Oxford, MATLAB)
+
+Books:
+Deep learning textbook (Goodfellow et. al., 2016) https://www.deeplearningbook.org/
+Deep learning: an overview (Jurgen, 2015) https://arxiv.org/abs/1404.7828
+Deep learning (Michael Nielsen, 2016) http://neuralnetworksanddeeplearning.com/
+A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1
+
+AI Energy Crisis:
+https://www.youtube.com/watch?v=MJQIQJYxey4
+
+AI Documentaries:
+https://www.youtube.com/watch?v=aZ5EsdnpLMI ( 60Minutes Artificial Intelligence)
+
