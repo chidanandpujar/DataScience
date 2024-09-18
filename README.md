@@ -1,6 +1,3 @@
-Artificial Intelligence:
-
-Introduction
 Artificial Intelligence (AI) and Machine Learning (ML) are no longer just buzzwords; they're reshaping industries and our daily lives.
 
 What is AI?
