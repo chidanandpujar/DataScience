@@ -188,6 +188,11 @@ Deep learning (Michael Nielsen, 2016) http://neuralnetworksanddeeplearning.com/
 
 A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1
 
+Github repo:
+
+https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
+
+
 AI Documentaries:
 
 https://www.youtube.com/watch?v=aZ5EsdnpLMI ( 60Minutes Artificial Intelligence)
