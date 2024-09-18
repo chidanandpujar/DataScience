@@ -165,13 +165,19 @@ http://neuralnetworksanddeeplearning.com/about.html
 
 https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
 
+
+Python Libraries/Tools
+
+https://numpy.org/
+
+https://pandas.pydata.org/
+
+https://matplotlib.org/
+
+https://www.tensorflow.org/
+
 https://keras.io/examples/
 
-Tools
-
-Tensorflow (Google)
-
-Keras
 
 Books:
 
