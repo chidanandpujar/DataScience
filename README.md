@@ -1,10 +1,18 @@
 Artificial Intelligence (AI) and Machine Learning (ML) are no longer just buzzwords; they're reshaping industries and our daily lives.
 
 What is AI?
+
 Definition: AI is the simulation of human intelligence in machines, programmed to think and learn like humans.
+
 Subfields:
-Narrow AI: Designed for specific tasks (e.g., facial recognition, self-driving cars).
-General AI: Capable of understanding, learning, and applying knowledge across domains.
+
+Narrow AI:
+
+  Designed for specific tasks (e.g., facial recognition, self-driving cars).
+  
+General AI: 
+
+  Capable of understanding, learning, and applying knowledge across domains.
 
   https://www.youtube.com/watch?v=qYNweeDHiyU
 
@@ -126,7 +134,6 @@ Deployment: Integrating the trained model into real-world applications.
     “Did I choose the right car?”
     If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
     the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
-
     https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s
 
 Generative AI:
