@@ -136,9 +136,6 @@ Deployment: Integrating the trained model into real-world applications.
     the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
     https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s
 
-Generative AI:
-
-https://www.youtube.com/watch?v=2IK3DFHRFfw
 
 AI youtube channels:
 
@@ -147,6 +144,8 @@ https://www.youtube.com/@3blue1brown/videos
 https://www.youtube.com/@howardjeremyp
 
 https://www.youtube.com/user/hugolarochelle
+
+https://www.youtube.com/watch?v=2IK3DFHRFfw
 
 
 References:
