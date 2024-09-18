@@ -147,6 +147,8 @@ https://www.youtube.com/user/hugolarochelle
 
 https://www.youtube.com/watch?v=2IK3DFHRFfw
 
+https://www.youtube.com/@codebasics/videos
+
 
 References:
 
@@ -191,6 +193,8 @@ A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygre
 Github repo:
 
 https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
+
+https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 
 AI Documentaries:
