@@ -2,17 +2,17 @@
 
 ## What is AI?
 
-    Definition: AI is the simulation of human intelligence in machines, programmed to think and learn like humans.
+Definition: AI is the simulation of human intelligence in machines, programmed to think and learn like humans.
 
 ### Subfields:
 
 #### Narrow AI:
 
-      Designed for specific tasks (e.g., facial recognition, self-driving cars).
+Designed for specific tasks (e.g., facial recognition, self-driving cars).
   
 #### General AI: 
 
-  Capable of understanding, learning, and applying knowledge across domains.
+Capable of understanding, learning, and applying knowledge across domains.
 
   [Introduction to AI youtube video](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
