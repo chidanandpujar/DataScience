@@ -140,7 +140,7 @@ Deployment: Integrating the trained model into real-world applications.
 
 ## AI youtube channels:
 
-[3blue1brown Youtube Video](https://www.youtube.com/@3blue1brown/videos)
+[3blue1brown Youtube Videos](https://www.youtube.com/@3blue1brown/videos)
 
 [Dr Raj Ramesh Youtube Videos](https://www.youtube.com/@RajRamesh/videos)
 
@@ -150,13 +150,13 @@ https://www.youtube.com/user/hugolarochelle
 
 https://www.youtube.com/watch?v=2IK3DFHRFfw
 
-https://www.youtube.com/@codebasics/videos
+[codebasics Youtube Videos](https://www.youtube.com/@codebasics/videos)
 
-https://www.youtube.com/@Siddhardhan/videos
+[SIddhardhan Youtube Videos](https://www.youtube.com/@Siddhardhan/videos)
 
-https://www.youtube.com/@SirajRaval
+[sirajRaval Youtube Videos](https://www.youtube.com/@SirajRaval)
 
-https://www.youtube.com/@Eduonix/videos
+[Eduonix Youtube Vidoes](https://www.youtube.com/@Eduonix/videos)
 
 
 ## References:
@@ -191,13 +191,13 @@ https://keras.io/examples/
 
 ## Books:
 
-Deep learning textbook (Goodfellow et. al., 2016) https://www.deeplearningbook.org/
+[Deep learning textbook (Goodfellow et. al., 2016)](https://www.deeplearningbook.org/)
 
-Deep learning: an overview (Jurgen, 2015) https://arxiv.org/abs/1404.7828
+[Deep learning: an overview (Jurgen, 2015)](https://arxiv.org/abs/1404.7828)
 
-Deep learning (Michael Nielsen, 2016) http://neuralnetworksanddeeplearning.com/
+[Deep learning (Michael Nielsen, 2016)](http://neuralnetworksanddeeplearning.com/)
 
-A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1
+[A statistical view of deep learning (Shakir Mohamed, 2015)](https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1)
 
 ## Github repo:
 
@@ -208,7 +208,7 @@ https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 ## AI Documentaries:
 
-https://www.youtube.com/watch?v=aZ5EsdnpLMI ( 60Minutes Artificial Intelligence)
+[60Minutes Artificial Intelligence](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
 
 https://www.youtube.com/watch?v=MJQIQJYxey4
 
