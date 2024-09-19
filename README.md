@@ -140,7 +140,9 @@ Deployment: Integrating the trained model into real-world applications.
 
 ## AI youtube channels:
 
-https://www.youtube.com/@3blue1brown/videos
+[3blue1brown Youtube Video](https://www.youtube.com/@3blue1brown/videos)
+
+[Dr Raj Ramesh Youtube Videos](https://www.youtube.com/@RajRamesh/videos)
 
 https://www.youtube.com/@howardjeremyp
 
