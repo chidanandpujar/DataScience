@@ -220,3 +220,5 @@ https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 [The AI Energy Crisis](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
+
+![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image2.png)
