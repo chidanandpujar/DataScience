@@ -18,7 +18,7 @@ Definition: AI is the simulation of human intelligence in machines, programmed t
 
 ## AI vs ML:
 
-  https://www.youtube.com/watch?v=vdUQfoCwiNc
+  [AI vs ML] (https://www.youtube.com/watch?v=vdUQfoCwiNc)
 
 ## Machine Learning as an equation:
 
@@ -42,16 +42,16 @@ Definition: AI is the simulation of human intelligence in machines, programmed t
 Machine learning involves the use of computer algorithms to learn how to perform different tasks.
 Let’s look at a few examples where machine learning is being applied.
 
-  1) Robotics:
+  ### 1) Robotics:
      
       Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots 
       https://www.youtube.com/watch?v=-9EM5_VFlt8
 
-  2)  Computer Vision:
+  ### 2)  Computer Vision:
       
       https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s
 
-  3)  Board Games:
+  ### 3)  Board Games:
      
       In March 2016; AlphaGo, the board-game-playing AI from Google’s DeepMind beat Korean Go Champion Lee Sedol 4-1. 
       AlphaGo uses deep neural networks and Monte Carlo tree search.
@@ -59,7 +59,7 @@ Let’s look at a few examples where machine learning is being applied.
       Watch this 3 minute trailer for the AlphaGo documentary. 
       The win is a defining moment in AI similar to when the computer, Deep Blue, beat Garry Kasparov at chess in 1996.
 
-  4)  Voice Recognition:
+  ### 4)  Voice Recognition:
      
       Technologies such as Siri and Google Home are examples of this. Siri uses speech recognizer, 
       natural language processing and text-to-speech techniques.
@@ -70,13 +70,13 @@ Let’s look at a few examples where machine learning is being applied.
       
       How would you go at recognising people by voice? How about a million people? This is where machine learning excels.
 
-  5)  Digit Recognition:
+  ### 5)  Digit Recognition:
 
       Digit Recognition is the task of reading in the images of handwritten numbers and letters and 
       outputting its machine-encoded equivalent. Machine Learning methods (SVM and Deep Learning) have hit >99% accuracy for this task.
       Other examples are detection of numberplates, printed numbers on bills, handwriting and CAPTCHA.
 
-  6)  Other interesting applications
+  ### 6)  Other interesting applications
      
       A wide variety of machine learning applications are related to:
 
@@ -85,16 +85,14 @@ Let’s look at a few examples where machine learning is being applied.
       stock market prediction
       
       business analytics
-      
-      facial recognition
 
 ## Types:
 
-Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
+### Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
 
-Unsupervised Learning: Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
+#### Unsupervised Learning: Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
 
-Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
+#### Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
   https://www.youtube.com/watch?v=mWxhsBFatvA
   
