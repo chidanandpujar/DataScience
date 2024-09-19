@@ -33,8 +33,6 @@ Capable of understanding, learning, and applying knowledge across domains.
     It is all about the volume of the data available to us,
     ML will learn from the data we give them and, importantly, respond to changes in the data they are given to produce useful results.
 
-  https://www.youtube.com/watch?v=vdUQfoCwiNc
-
 ## Real World applications of machine learning:
 
 Machine learning involves the use of computer algorithms to learn how to perform different tasks.
