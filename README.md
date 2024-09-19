@@ -45,7 +45,7 @@ Let’s look at a few examples where machine learning is being applied.
 
   ### 2)  Computer Vision:
       
-  [Youtube Video](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
+  [Breakthrough Computer Vision AI Device Youtube Vidoe](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
 
   ### 3)  Board Games:
      
@@ -90,9 +90,9 @@ Let’s look at a few examples where machine learning is being applied.
 
 #### Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
-  [Types And Applications Of Machine Learning | Eduonix](https://www.youtube.com/watch?v=mWxhsBFatvA)
+  [Types And Applications Of Machine Learning | Eduonix Youtube Vidoe](https://www.youtube.com/watch?v=mWxhsBFatvA)
   
-  [What Is Reinforcement Machine Learning?](https://www.youtube.com/watch?v=vRcW5LDB7ng)
+  [What Is Reinforcement Machine Learning? Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
 ## Machine Learning steps:
 
