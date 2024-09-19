@@ -1,26 +1,26 @@
-Artificial Intelligence (AI) and Machine Learning (ML) are no longer just buzzwords; they're reshaping industries and our daily lives.
+# Artificial Intelligence (AI)
 
-What is AI?
+## What is AI?
 
 Definition: AI is the simulation of human intelligence in machines, programmed to think and learn like humans.
 
-Subfields:
+### Subfields:
 
-Narrow AI:
+#### Narrow AI:
 
   Designed for specific tasks (e.g., facial recognition, self-driving cars).
   
-General AI: 
+#### General AI: 
 
   Capable of understanding, learning, and applying knowledge across domains.
 
   https://www.youtube.com/watch?v=qYNweeDHiyU
 
-AI vs ML:
+## AI vs ML:
 
   https://www.youtube.com/watch?v=vdUQfoCwiNc
 
-Machine Learning as an equation:
+## Machine Learning as an equation:
 
   A computer program is said to learn from experience E with respect to some class of tasks T 
   and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E.
@@ -37,7 +37,7 @@ Machine Learning as an equation:
 
   https://www.youtube.com/watch?v=vdUQfoCwiNc
 
-Real World applications of machine learning:
+## Real World applications of machine learning:
 
 Machine learning involves the use of computer algorithms to learn how to perform different tasks.
 Let’s look at a few examples where machine learning is being applied.
@@ -88,7 +88,7 @@ Let’s look at a few examples where machine learning is being applied.
       
       facial recognition
 
-Types:
+## Types:
 
 Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
 
@@ -100,15 +100,16 @@ Reinforcement Learning: Algorithms learn through trial and error, receiving rewa
   
   https://www.youtube.com/watch?v=vRcW5LDB7ng
 
-Machine Learning steps:
+## Machine Learning steps:
 
-Data Acquisition: Gathering relevant data is essential for training ML models.
+### Data Acquisition: 
+Gathering relevant data is essential for training ML models.
 Data Preparation: Cleaning, preprocessing, and feature engineering are crucial steps.
 Model Selection and Training: Choosing the appropriate ML algorithm and training it on the data.
 Evaluation: Assessing the model's performance using metrics like accuracy, precision, and recall.
 Deployment: Integrating the trained model into real-world applications.
 
-  Step 1: Data Manipulation
+  #### Step 1: Data Manipulation
     This is a process of data preparation. ML usually uses the largest sets of data available.
     The first step in data manipulation is Data Acquisition. 
     Data acquisition is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
@@ -119,7 +120,7 @@ Deployment: Integrating the trained model into real-world applications.
     We call this procedure Data Cleaning. Data cleaning is a major step as real-world datasets are highly affected by noise, 
     redundancy and missing values. We might delete any three-wheeled cars because they’re so unusual.
 
-  Step 2: Analytics
+  #### Step 2: Analytics
     The second main step in machine learning is Analytics. Analytics mainly involves finding relationships and 
     correlations in the prepared data in order to design an accurate model based on that input data.
     In addition, Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
@@ -129,7 +130,7 @@ Deployment: Integrating the trained model into real-world applications.
     It uses a variety of statistical techniques such as predictive modelling in order to build a classifier or 
     intelligent system for decision making.
   
-  Step 3: Evaluation and Visualisation
+  #### Step 3: Evaluation and Visualisation
     The final result of Analytics is an intelligent system or model. As the last step of ML design, we have to evaluate the performance of the system. 
     “Did I choose the right car?”
     If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
@@ -137,7 +138,7 @@ Deployment: Integrating the trained model into real-world applications.
     https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s
 
 
-AI youtube channels:
+# AI youtube channels:
 
 https://www.youtube.com/@3blue1brown/videos
 
@@ -154,7 +155,7 @@ https://www.youtube.com/@Siddhardhan/videos
 https://www.youtube.com/@SirajRaval
 
 
-References:
+# References:
 
 https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb
 
@@ -171,7 +172,7 @@ http://neuralnetworksanddeeplearning.com/about.html
 https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
 
 
-Python Libraries/Tools
+# Python Libraries/Tools
 
 https://numpy.org/
 
@@ -184,7 +185,7 @@ https://www.tensorflow.org/
 https://keras.io/examples/
 
 
-Books:
+# Books:
 
 Deep learning textbook (Goodfellow et. al., 2016) https://www.deeplearningbook.org/
 
@@ -194,14 +195,14 @@ Deep learning (Michael Nielsen, 2016) http://neuralnetworksanddeeplearning.com/
 
 A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1
 
-Github repo:
+# Github repo:
 
 https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
 
 https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 
-AI Documentaries:
+# AI Documentaries:
 
 https://www.youtube.com/watch?v=aZ5EsdnpLMI ( 60Minutes Artificial Intelligence)
 
