@@ -16,6 +16,8 @@ Capable of understanding, learning, and applying knowledge across domains.
 
   [Introduction to AI youtube video](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
+  [What is AI for people in a Hurry Youtube Video](https://www.youtube.com/watch?v=2ePf9rue1Ao)
+
 ## Machine Learning as an equation:
 
   A computer program is said to learn from experience E with respect to some class of tasks T 
