@@ -1,4 +1,4 @@
-![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image1.jpg)
+![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image3.png)
 
 # Artificial Intelligence (AI)
 
