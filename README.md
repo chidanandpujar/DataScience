@@ -92,7 +92,7 @@ Let’s look at a few examples where machine learning is being applied.
 
   [Types And Applications Of Machine Learning | Eduonix](https://www.youtube.com/watch?v=mWxhsBFatvA)
   
-  [ML Types Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
+  [What Is Reinforcement Machine Learning?](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
 ## Machine Learning steps:
 
