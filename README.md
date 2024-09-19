@@ -18,7 +18,7 @@ Definition: AI is the simulation of human intelligence in machines, programmed t
 
 ## AI vs ML:
 
-  [AI vs ML] (https://www.youtube.com/watch?v=vdUQfoCwiNc)
+  [AI vs ML](https://www.youtube.com/watch?v=vdUQfoCwiNc)
 
 ## Machine Learning as an equation:
 
