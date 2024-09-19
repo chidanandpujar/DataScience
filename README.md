@@ -39,13 +39,13 @@ Machine learning involves the use of computer algorithms to learn how to perform
 Let’s look at a few examples where machine learning is being applied.
 
   ### 1) Robotics:
-     
-      Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots 
-      https://www.youtube.com/watch?v=-9EM5_VFlt8
+      Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots
+      
+      [Boston Dynamics Humanoids Youtube Video](https://www.youtube.com/watch?v=-9EM5_VFlt8)
 
   ### 2)  Computer Vision:
       
-      https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s
+      [Youtube Video](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
 
   ### 3)  Board Games:
      
@@ -90,9 +90,9 @@ Let’s look at a few examples where machine learning is being applied.
 
 #### Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
-  https://www.youtube.com/watch?v=mWxhsBFatvA
+  [ML Types Youtube Video[(https://www.youtube.com/watch?v=mWxhsBFatvA)
   
-  https://www.youtube.com/watch?v=vRcW5LDB7ng
+  [ML Types Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
 ## Machine Learning steps:
 
