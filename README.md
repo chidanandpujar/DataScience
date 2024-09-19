@@ -138,6 +138,10 @@ Deployment: Integrating the trained model into real-world applications.
   [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
 
+## Generative AI:
+
+[Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+
 ## AI youtube channels:
 
 [Maths Youtube Videos](https://www.youtube.com/@ritvikmath/videos)
@@ -148,11 +152,9 @@ Deployment: Integrating the trained model into real-world applications.
 
 [StatQuest Youtube Videos](https://www.youtube.com/@statquest/videos)
 
-https://www.youtube.com/@howardjeremyp
+[Jeremy Howard](https://www.youtube.com/@howardjeremyp)
 
-https://www.youtube.com/user/hugolarochelle
-
-https://www.youtube.com/watch?v=2IK3DFHRFfw
+[Henrik Kniberg](https://www.youtube.com/@henrikkniberg/videos)
 
 [codebasics Youtube Videos](https://www.youtube.com/@codebasics/videos)
 
