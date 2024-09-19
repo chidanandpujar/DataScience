@@ -57,30 +57,30 @@ Let’s look at a few examples where machine learning is being applied.
 
   ### 4)  Voice Recognition:
      
-      Technologies such as Siri and Google Home are examples of this. Siri uses speech recognizer, 
-      natural language processing and text-to-speech techniques.
-      The Australian Government Tax Office now holds millions of voice prints to identify Australians.
-      Their voice is compared with a stored voiceprint which captures more than 140 unique physical and 
-      behavioural characteristics of a person such as length of the vocal tract and nasal passage, 
-      the size and shape of the larynx, pitch, cadence and accent. (Nott, 2016)
+  Technologies such as Siri and Google Home are examples of this. Siri uses speech recognizer, 
+  natural language processing and text-to-speech techniques.
+  The Australian Government Tax Office now holds millions of voice prints to identify Australians.
+  Their voice is compared with a stored voiceprint which captures more than 140 unique physical and 
+  behavioural characteristics of a person such as length of the vocal tract and nasal passage, 
+  the size and shape of the larynx, pitch, cadence and accent. (Nott, 2016)
       
-      How would you go at recognising people by voice? How about a million people? This is where machine learning excels.
+  How would you go at recognising people by voice? How about a million people? This is where machine learning excels.
 
   ### 5)  Digit Recognition:
 
-      Digit Recognition is the task of reading in the images of handwritten numbers and letters and 
-      outputting its machine-encoded equivalent. Machine Learning methods (SVM and Deep Learning) have hit >99% accuracy for this task.
-      Other examples are detection of numberplates, printed numbers on bills, handwriting and CAPTCHA.
+  Digit Recognition is the task of reading in the images of handwritten numbers and letters and 
+  outputting its machine-encoded equivalent. Machine Learning methods (SVM and Deep Learning) have hit >99% accuracy for this task.
+  Other examples are detection of numberplates, printed numbers on bills, handwriting and CAPTCHA.
 
   ### 6)  Other interesting applications
      
-      A wide variety of machine learning applications are related to:
+  A wide variety of machine learning applications are related to:
 
-      healthcare analytics
+  healthcare analytics
       
-      stock market prediction
+  stock market prediction
       
-      business analytics
+  business analytics
 
 ## Types:
 
@@ -104,32 +104,38 @@ Evaluation: Assessing the model's performance using metrics like accuracy, preci
 Deployment: Integrating the trained model into real-world applications.
 
   #### Step 1: Data Manipulation
-    This is a process of data preparation. ML usually uses the largest sets of data available.
-    The first step in data manipulation is Data Acquisition. 
-    Data acquisition is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
-    Using our car example, you might measure engine size, number of doors, size of tyres etc.
-    The data acquired should be reliable for converting into digital numeric values that can be manipulated by a computer. 
-    Number of car doors is easy; style is less easy to define numerically.
-    Once the data is properly stored, any redundant, noisy, unusable parts of it should be trimmed. 
-    We call this procedure Data Cleaning. Data cleaning is a major step as real-world datasets are highly affected by noise, 
-    redundancy and missing values. We might delete any three-wheeled cars because they’re so unusual.
+  This is a process of data preparation. ML usually uses the largest sets of data available.
+  The first step in data manipulation is Data Acquisition. 
+  
+  ##### Data acquisition 
+  is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
+  Using our car example, you might measure engine size, number of doors, size of tyres etc.
+  The data acquired should be reliable for converting into digital numeric values that can be manipulated by a computer. 
+  Number of car doors is easy; style is less easy to define numerically.
+  Once the data is properly stored, any redundant, noisy, unusable parts of it should be trimmed. 
+  We call this procedure Data Cleaning. 
+  ##### Data cleaning 
+  is a major step as real-world datasets are highly affected by noise, 
+  redundancy and missing values. We might delete any three-wheeled cars because they’re so unusual.
 
   #### Step 2: Analytics
-    The second main step in machine learning is Analytics. Analytics mainly involves finding relationships and 
-    correlations in the prepared data in order to design an accurate model based on that input data.
-    In addition, Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
-    Many exploratory data analysis methods use visual illustration of data, based on different features. Things like graphs, charts and 
-    tables make data easier to understand.
-    Finally Predictive Machine Learning is the last stage of Analytics. 
-    It uses a variety of statistical techniques such as predictive modelling in order to build a classifier or 
-    intelligent system for decision making.
+  The second main step in machine learning is Analytics. Analytics mainly involves finding relationships and 
+  correlations in the prepared data in order to design an accurate model based on that input data.
+  In addition, Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
+  Many exploratory data analysis methods use visual illustration of data, based on different features. Things like graphs, charts and 
+  tables make data easier to understand.
+    
+  Finally Predictive Machine Learning is the last stage of Analytics. 
+  It uses a variety of statistical techniques such as predictive modelling in order to build a classifier or 
+  intelligent system for decision making.
   
   #### Step 3: Evaluation and Visualisation
-    The final result of Analytics is an intelligent system or model. As the last step of ML design, we have to evaluate the performance of the system. 
-    “Did I choose the right car?”
-    If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
-    the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
-    https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s
+  The final result of Analytics is an intelligent system or model. As the last step of ML design, we have to evaluate the performance of the system. 
+  “Did I choose the right car?”
+  If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
+  the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
+  
+  [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
 
 ## AI youtube channels:
