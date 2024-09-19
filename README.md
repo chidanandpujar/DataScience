@@ -43,7 +43,9 @@ Let’s look at a few examples where machine learning is being applied.
   ### 1) Robotics:
   
   Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots
+  
   [Boston Dynamics Humanoids Youtube Video](https://www.youtube.com/watch?v=-9EM5_VFlt8)
+  [CNET: Atlas vs. Optimus: Boston Dynamics & Tesla's Humanoid Robots](https://www.youtube.com/watch?v=rTiL9R_Q5PA)
 
   ### 2)  Computer Vision:
       
