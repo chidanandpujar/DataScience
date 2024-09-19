@@ -14,11 +14,11 @@ Definition: AI is the simulation of human intelligence in machines, programmed t
 
   Capable of understanding, learning, and applying knowledge across domains.
 
-  https://www.youtube.com/watch?v=qYNweeDHiyU
+  [Introduction to AI youtube video](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
 ## AI vs ML:
 
-  [AI vs ML](https://www.youtube.com/watch?v=vdUQfoCwiNc)
+  [AI vs ML youtube video](https://www.youtube.com/watch?v=vdUQfoCwiNc)
 
 ## Machine Learning as an equation:
 
@@ -136,7 +136,7 @@ Deployment: Integrating the trained model into real-world applications.
     https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s
 
 
-# AI youtube channels:
+## AI youtube channels:
 
 https://www.youtube.com/@3blue1brown/videos
 
@@ -153,7 +153,7 @@ https://www.youtube.com/@Siddhardhan/videos
 https://www.youtube.com/@SirajRaval
 
 
-# References:
+## References:
 
 https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb
 
@@ -170,7 +170,7 @@ http://neuralnetworksanddeeplearning.com/about.html
 https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
 
 
-# Python Libraries/Tools
+## Python Libraries/Tools
 
 https://numpy.org/
 
@@ -183,7 +183,7 @@ https://www.tensorflow.org/
 https://keras.io/examples/
 
 
-# Books:
+## Books:
 
 Deep learning textbook (Goodfellow et. al., 2016) https://www.deeplearningbook.org/
 
@@ -193,14 +193,14 @@ Deep learning (Michael Nielsen, 2016) http://neuralnetworksanddeeplearning.com/
 
 A statistical view of deep learning (Shakir Mohamed, 2015) https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1
 
-# Github repo:
+## Github repo:
 
 https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
 
 https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 
-# AI Documentaries:
+## AI Documentaries:
 
 https://www.youtube.com/watch?v=aZ5EsdnpLMI ( 60Minutes Artificial Intelligence)
 
