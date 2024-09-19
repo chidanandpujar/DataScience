@@ -90,7 +90,7 @@ Let’s look at a few examples where machine learning is being applied.
 
 #### Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
-  [ML Types Youtube Video](https://www.youtube.com/watch?v=mWxhsBFatvA)
+  [Types And Applications Of Machine Learning | Eduonix](https://www.youtube.com/watch?v=mWxhsBFatvA)
   
   [ML Types Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
