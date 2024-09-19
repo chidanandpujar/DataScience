@@ -140,9 +140,13 @@ Deployment: Integrating the trained model into real-world applications.
 
 ## AI youtube channels:
 
+[Maths Youtube Videos](https://www.youtube.com/@ritvikmath/videos)
+
 [3blue1brown Youtube Videos](https://www.youtube.com/@3blue1brown/videos)
 
 [Dr Raj Ramesh Youtube Videos](https://www.youtube.com/@RajRamesh/videos)
+
+[StatQuest Youtube Videos](https://www.youtube.com/@statquest/videos)
 
 https://www.youtube.com/@howardjeremyp
 
