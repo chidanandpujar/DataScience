@@ -210,5 +210,5 @@ https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 [60Minutes Artificial Intelligence](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
 
-https://www.youtube.com/watch?v=MJQIQJYxey4
+[The AI Energy Crisis](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
