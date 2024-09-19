@@ -39,21 +39,21 @@ Machine learning involves the use of computer algorithms to learn how to perform
 Let’s look at a few examples where machine learning is being applied.
 
   ### 1) Robotics:
-      Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots
-      
-      [Boston Dynamics Humanoids Youtube Video](https://www.youtube.com/watch?v=-9EM5_VFlt8)
+  
+  Some examples of machine learning applications in robotics are creating walking and jumping patterns for humanoid robots
+  [Boston Dynamics Humanoids Youtube Video](https://www.youtube.com/watch?v=-9EM5_VFlt8)
 
   ### 2)  Computer Vision:
       
-      [Youtube Video](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
+  [Youtube Video](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
 
   ### 3)  Board Games:
      
-      In March 2016; AlphaGo, the board-game-playing AI from Google’s DeepMind beat Korean Go Champion Lee Sedol 4-1. 
-      AlphaGo uses deep neural networks and Monte Carlo tree search.
+  In March 2016; AlphaGo, the board-game-playing AI from Google’s DeepMind beat Korean Go Champion Lee Sedol 4-1. 
+  AlphaGo uses deep neural networks and Monte Carlo tree search.
 
-      Watch this 3 minute trailer for the AlphaGo documentary. 
-      The win is a defining moment in AI similar to when the computer, Deep Blue, beat Garry Kasparov at chess in 1996.
+  Watch this 3 minute trailer for the AlphaGo documentary. 
+  The win is a defining moment in AI similar to when the computer, Deep Blue, beat Garry Kasparov at chess in 1996.
 
   ### 4)  Voice Recognition:
      
@@ -84,13 +84,13 @@ Let’s look at a few examples where machine learning is being applied.
 
 ## Types:
 
-### Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
+#### Supervised Learning: Algorithms learn from labeled data (e.g., classification, regression).
 
 #### Unsupervised Learning: Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
 
 #### Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
-  [ML Types Youtube Video[(https://www.youtube.com/watch?v=mWxhsBFatvA)
+  [ML Types Youtube Video](https://www.youtube.com/watch?v=mWxhsBFatvA)
   
   [ML Types Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
