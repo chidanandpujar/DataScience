@@ -146,7 +146,7 @@ Deployment: Integrating the trained model into real-world applications.
 
 [Demo1: Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
 
-[Demon2: Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
+[Demo2: Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
 
 ## Generative AI:
 
