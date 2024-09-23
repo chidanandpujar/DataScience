@@ -50,7 +50,7 @@ Let’s look at a few examples where machine learning is being applied.
 
   ### 2)  Computer Vision:
       
-  [Breakthrough Computer Vision AI Device Youtube Vidoe](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
+  [Breakthrough Computer Vision AI Device Youtube Video](https://www.youtube.com/watch?v=0KUk4qUzFho&t=155s)
 
   ### 3)  Board Games:
      
@@ -103,9 +103,13 @@ Let’s look at a few examples where machine learning is being applied.
 
 ### Data Acquisition: 
 Gathering relevant data is essential for training ML models.
+
 Data Preparation: Cleaning, preprocessing, and feature engineering are crucial steps.
+
 Model Selection and Training: Choosing the appropriate ML algorithm and training it on the data.
+
 Evaluation: Assessing the model's performance using metrics like accuracy, precision, and recall.
+
 Deployment: Integrating the trained model into real-world applications.
 
   #### Step 1: Data Manipulation
@@ -115,10 +119,10 @@ Deployment: Integrating the trained model into real-world applications.
   ##### Data acquisition 
   is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
   Using our car example, you might measure engine size, number of doors, size of tyres etc.
+  
   The data acquired should be reliable for converting into digital numeric values that can be manipulated by a computer. 
   Number of car doors is easy; style is less easy to define numerically.
-  Once the data is properly stored, any redundant, noisy, unusable parts of it should be trimmed. 
-  We call this procedure Data Cleaning. 
+ 
   ##### Data cleaning 
   is a major step as real-world datasets are highly affected by noise, 
   redundancy and missing values. We might delete any three-wheeled cars because they’re so unusual.
@@ -126,6 +130,7 @@ Deployment: Integrating the trained model into real-world applications.
   #### Step 2: Analytics
   The second main step in machine learning is Analytics. Analytics mainly involves finding relationships and 
   correlations in the prepared data in order to design an accurate model based on that input data.
+  
   In addition, Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
   Many exploratory data analysis methods use visual illustration of data, based on different features. Things like graphs, charts and 
   tables make data easier to understand.
@@ -238,5 +243,5 @@ https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 [The AI Energy Crisis](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
-
+## Q and A:
 ![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image2.png)
