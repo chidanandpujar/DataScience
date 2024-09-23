@@ -142,6 +142,8 @@ Deployment: Integrating the trained model into real-world applications.
   
   [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
+  [Demo1: Linear Regression](https://drive.google.com/file/d/1jlPVXVnAhaZbTK3SCiEh-v1AJVGjNvXC/view?usp=drive_link)
+
 ## NLP
 
 [Demo1: Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
