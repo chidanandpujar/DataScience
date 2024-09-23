@@ -143,7 +143,9 @@ Deployment: Integrating the trained model into real-world applications.
   [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
 ## NLP
-[Demo1: Chatbot][https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link]
+
+[Demo1: Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
+
 [Demon2: Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
 
 ## Generative AI:
