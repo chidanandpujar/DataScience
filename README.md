@@ -152,6 +152,12 @@ Deployment: Integrating the trained model into real-world applications.
 
 [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
+## Datasets:
+
+[UCI Datasets](https://archive.ics.uci.edu/datasets)
+
+[kaggle Datasets](https://www.kaggle.com/datasets)
+
 ## AI youtube channels:
 
 [Maths Youtube Videos](https://www.youtube.com/@ritvikmath/videos)
