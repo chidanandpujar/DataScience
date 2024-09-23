@@ -1,6 +1,6 @@
-\========================================================================  
+
 ## NLP \- Natural Language Processing  
-\========================================================================
+
 
 The introduction to NLP  
 The need for NLP  
@@ -9,9 +9,9 @@ Tasks in NLP
 Challenges in NLP  
 Text Preprocessing 
 
-\========================================================================  
-Introduction :  
-\========================================================================
+
+### Introduction :  
+
 
 We human beings exchange information via reading, writing, watching, speaking, listening etc.
 
@@ -66,9 +66,9 @@ natural language by a computer, which predicts or generates the text.
 
 For example chatGPT 
 
-\========================================================================  
-NLP \- The need for NLP :  
-\========================================================================  
+
+### The need for NLP :  
+
 analyze the unstructured data 
 
 Text data is different because it cannot directly be input into machine learning and   
@@ -87,9 +87,9 @@ The data is sequential in nature , changing or reversing the order of words/sent
 This should give a sense of the need for a unique class of models capable of making predictions on text data  
 and this is what establishes the need for NLP as a separate domain within Data Science and Artificial Intelligence 
 
-\========================================================================  
-Applications of NLP  
-\========================================================================
+ 
+### Applications of NLP  
+
 
 Search Engines  \- Auto suggest / Auto complete and Auto correction of the sentences    
 For Example google and Bing search engines 
@@ -114,9 +114,9 @@ Voice Assistants  is software which understands humans spoken requests and perfo
 based on speech recognition, natural language comprehension and natural language processing.  
 For example Amazon Alexa , Apples Siri 
 
-\========================================================================  
-Tasks in NLP  
-\========================================================================
+ 
+### Tasks in NLP  
+
 
 Text classification aims to automatically determine the class or category to which the piece of text belongs,  
 applications like sentiment analysis, spam vs ham detection, topic labeling etc.
@@ -137,9 +137,9 @@ Text to speech processing and vice versa.
 
 BOT developement where humans speak to trained systems and get a suitable response for their queries.
 
-\========================================================================  
-Challenges in NLP  
-\========================================================================
+
+### Challenges in NLP  
+
 
 Ambiguity is the main challenge of natural language processing because in natural language,   
 words are unique, but they have different meanings depending upon the context which causes ambiguity.
@@ -149,9 +149,9 @@ Apple unveils iPhone 15 Pro and iPhone 15 Pro Max
 
 An apple a day keeps the doctor away
 
-\========================================================================  
-Text Preprocessing   
-\========================================================================  
+
+### Text Preprocessing   
+
 Text preprocessing deals with cleaning raw and Uncleaned text using following methods  
 Lower casing  
 Removal of Punctuations  
