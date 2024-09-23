@@ -192,8 +192,6 @@ Deployment: Integrating the trained model into real-world applications.
 
 ## References:
 
-https://github.com/tulip-lab/sit742/blob/develop/Jupyter/M04-DataManipulation/M04F-Spark.ipynb
-
 https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
 
 https://kdd.org/conferences
@@ -231,6 +229,8 @@ https://keras.io/examples/
 [A statistical view of deep learning (Shakir Mohamed, 2015)](https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1)
 
 ## Github repo:
+
+https://github.com/tulip-lab
 
 https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
 
