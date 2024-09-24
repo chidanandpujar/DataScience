@@ -150,7 +150,8 @@ Deployment: Integrating the trained model into real-world applications.
   
   [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
-  [Open the Demo Note books using Google Colabarotry](https://drive.google.com/drive/home)
+  [Open the Demo Note books using Google Colaboratory](https://drive.google.com/drive/home)
+  
   [Demo1: Linear Regression](https://drive.google.com/file/d/1jlPVXVnAhaZbTK3SCiEh-v1AJVGjNvXC/view?usp=drive_link)
 
 ## NLP
