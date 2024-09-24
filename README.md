@@ -90,13 +90,13 @@ Let’s look at a few examples where machine learning is being applied.
 ## Types:
 
 #### Supervised Learning: 
-    Algorithms learn from labeled data (e.g., classification, regression).
+Algorithms learn from labeled data (e.g., classification, regression).
 
 #### Unsupervised Learning: 
-    Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
+Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
 
 #### Reinforcement Learning: 
-    Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
+Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
   [Types And Applications Of Machine Learning | Eduonix Youtube Vidoe](https://www.youtube.com/watch?v=mWxhsBFatvA)
   
