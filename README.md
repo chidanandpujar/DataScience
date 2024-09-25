@@ -102,7 +102,6 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 ## Machine Learning steps:
 
-### Data Acquisition: 
 Gathering relevant data is essential for training ML models.
 
 Data Preparation: Cleaning, preprocessing, and feature engineering are crucial steps.
@@ -120,31 +119,40 @@ Deployment: Integrating the trained model into real-world applications.
   ##### Data acquisition 
   is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
   Using our car example, you might measure engine size, number of doors, size of tyres etc.
-  
+
   The data acquired should be reliable for converting into digital numeric values that can be manipulated by a computer. 
   Number of car doors is easy; style is less easy to define numerically.
+
+  ##### Data Storage
+ Store the data in databases or create xls or csv files.
  
   ##### Data cleaning 
-  is a major step as real-world datasets are highly affected by noise, 
-  redundancy and missing values. We might delete any three-wheeled cars because they’re so unusual.
+ Any redundant, noisy, duplicate values, missing values ,unusable parts of it should be trimmed. We call this procedure Data Cleaning.
 
   #### Step 2: Analytics
-  The second main step in machine learning is Analytics. Analytics mainly involves finding relationships and 
-  correlations in the prepared data in order to design an accurate model based on that input data.
+
+  ##### Finding Relationships:  
   
-  In addition, Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
+  Analytics mainly involves finding relationships and correlations in the prepared data in order to design an accurate model based on that input data.
+  
+  ##### Exploratory Data Analysis
+  
+  Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
   Many exploratory data analysis methods use visual illustration of data, based on different features. Things like graphs, charts and 
   tables make data easier to understand.
-    
-  Finally Predictive Machine Learning is the last stage of Analytics. 
-  It uses a variety of statistical techniques such as predictive modelling in order to build a classifier or 
-  intelligent system for decision making.
+   
+  ##### Predictive Machine Learning
+  
+  Selecting a machine learning model and training the model on the test data
   
   #### Step 3: Evaluation and Visualisation
   The final result of Analytics is an intelligent system or model. As the last step of ML design, we have to evaluate the performance of the system. 
-  “Did I choose the right car?”
+
+  #### Step 4: Refinement/Hyper Parameter Tuning:
   If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
   the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
+
+  [Machine Learning Steps Youtube Video](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&t=635s)
   
   [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
