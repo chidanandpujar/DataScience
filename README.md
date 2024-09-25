@@ -55,10 +55,8 @@ Let’s look at a few examples where machine learning is being applied.
   ### 3)  Board Games:
      
   In March 2016; AlphaGo, the board-game-playing AI from Google’s DeepMind beat Korean Go Champion Lee Sedol 4-1. 
-  AlphaGo uses deep neural networks and Monte Carlo tree search.
-
-  Watch this 3 minute trailer for the AlphaGo documentary. 
-  The win is a defining moment in AI similar to when the computer, Deep Blue, beat Garry Kasparov at chess in 1996.
+ 
+   [Google Deep Mind AlphaGo](https://www.youtube.com/watch?v=SUbqykXVx0A)
 
   ### 4)  Voice Recognition:
      
