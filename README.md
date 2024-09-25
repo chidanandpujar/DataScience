@@ -160,7 +160,7 @@ Deployment: Integrating the trained model into real-world applications.
   
   [Demo1: Linear Regression](https://drive.google.com/file/d/1jlPVXVnAhaZbTK3SCiEh-v1AJVGjNvXC/view?usp=drive_link)
 
-## NLP
+## Natural Language Processing (NLP)
 
 [NLP](https://github.com/chidanandpujar/DataScience/blob/main/NLP.md)
 
