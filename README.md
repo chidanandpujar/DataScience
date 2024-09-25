@@ -152,7 +152,7 @@ Deployment: Integrating the trained model into real-world applications.
   If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
   the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
 
-  [Machine Learning Steps Youtube Video](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&t=635s)
+  [The 7 steps of machine learning Youtube Video](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&t=635s)
   
   [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
