@@ -200,6 +200,10 @@ Deployment: Integrating the trained model into real-world applications.
 
 [Eduonix Youtube Vidoes](https://www.youtube.com/@Eduonix/videos)
 
+[AI Google Cloud Tech Youtube Videos](https://www.youtube.com/@googlecloudtech/videos)
+
+[patrickJMT Youtube Videos](https://www.youtube.com/@patrickjmt/videos)
+
 
 ## References:
 
