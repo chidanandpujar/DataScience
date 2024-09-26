@@ -97,6 +97,8 @@ Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction
 Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
   [Types And Applications Of Machine Learning | Eduonix Youtube Vidoe](https://www.youtube.com/watch?v=mWxhsBFatvA)
+
+  [Google DeepMind Demos AI Training Robots to Play Soccer / Football](https://www.youtube.com/watch?v=RbyQcCT6890)
   
   [What Is Reinforcement Machine Learning? Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
