@@ -88,7 +88,7 @@ Let’s look at a few examples where machine learning is being applied.
 ## Types:
 
 #### Supervised Learning: 
-Algorithms learn from labeled data (e.g., classification, regression).
+Algorithms learn from labeled data (e.g., classification, Linear Regression, Logistic Regression, Support Vector Classifier).
 
 #### Unsupervised Learning: 
 Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
