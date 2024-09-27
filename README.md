@@ -93,6 +93,8 @@ Algorithms learn from labeled data (e.g., classification, regression).
 #### Unsupervised Learning: 
 Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
 
+[Difference between labelled and unlabeled data](https://www.kaggle.com/discussions/general/187644)
+
 #### Reinforcement Learning: 
 Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
