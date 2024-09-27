@@ -234,6 +234,10 @@ https://www.tensorflow.org/
 
 https://keras.io/examples/
 
+https://scikit-learn.org/stable/index.html
+
+https://www.nltk.org/
+
 
 ## Books:
 
