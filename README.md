@@ -208,6 +208,8 @@ Deployment: Integrating the trained model into real-world applications.
 
 [patrickJMT Youtube Videos](https://www.youtube.com/@patrickjmt/videos)
 
+[Khan Academy Youtube Videos](https://www.youtube.com/@khanacademy/videos)
+
 
 ## References:
 
