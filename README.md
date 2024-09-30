@@ -228,6 +228,20 @@ https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudgin
 
 ## Python Libraries/Tools
 
+numpy is probably the most fundamental package for efficient scientific computing in Python
+
+scipy is one of the core packages for scientific computations
+
+pandas is a library for operating with table-like data structures called DataFrame object
+
+matplotlib is a comprehensive plotting library
+
+BeautifulSoup is an HTML and XML parser
+
+scikit-learn is the most general machine learning library for Python
+
+nltk is a toolkit for natural language processing
+
 https://numpy.org/
 
 https://pandas.pydata.org/
@@ -243,6 +257,12 @@ https://scikit-learn.org/stable/index.html
 https://www.nltk.org/
 
 https://spacy.io/
+
+https://scipy.org/
+
+https://seaborn.pydata.org/
+
+https://pypi.org/project/beautifulsoup4/
 
 
 ## Books:
