@@ -228,7 +228,7 @@ https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudgin
 
 ## Python Libraries/Tools
 
-numpy is probably the most fundamental package for efficient scientific computing in Python
+numpy is the package for efficient scientific computing in Python
 
 scipy is one of the core packages for scientific computations
 
