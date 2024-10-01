@@ -32,7 +32,7 @@ This unstructured data is hence a potential gold mine and if converted into a me
 it can be analyzed and valuable insights can be procured, which in turn can facilitate   
 informed data driven decision-making.  
 	  
-What is NLP ?  
+### What is NLP ?  
 Natural language processing is a branch of Artificial intelligence, that deals with   
 the interaction between machines and human in natural languages.
 
@@ -54,9 +54,9 @@ the text or speech. NLP deals with taking the corpus and pre-process it and
 feed into the ML/DL models, so that machine is able to understand the text   
 or speech and generate/predict the new text.
 
-Two main parts of NLP are  
-Natural Language Understanding \- NLU  
-Natural Language Generation \- NLG
+### Two main parts of NLP are  
+#### Natural Language Understanding \- NLU  
+#### Natural Language Generation \- NLG
 
 Natural Language Understanding (NLU)  — The computer’s ability to understand   
 what we say.
@@ -168,10 +168,10 @@ Removal of URLs
 Removal of HTML tags  
 Spelling correction
 
-Reference : https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing
+[Ref: Text preprocessing](https://www.kaggle.com/code/sudalairajkumar/getting-started-with-text-preprocessing)
 
 \========================================================================  
-NLP Pipeline  
+### NLP Pipeline  
 \========================================================================  
 Most important steps of NLP pipeline are as follows 
 
@@ -190,7 +190,7 @@ or Model Building
 Deployment
 
 \========================================================================  
-Introduction to Text preprocessing  
+### Introduction to Text preprocessing  
 \========================================================================  
 Input is text data   
 Text data coming from various sources is not entirely clean and it is unstructured.
@@ -225,7 +225,7 @@ Tasks like Text summarization, text classification might not need to the stopwor
 the stops words is necessary step.
 
 \========================================================================  
-Treating Accented   
+### Treating Accented   
 \========================================================================  
 In Text preprocessing we usually remove accented characters, because our ML/DL models consider  
 words with and without an accent symbols as separate words, even though they may be the same word.
@@ -245,7 +245,7 @@ data\['accented\_unidecode'\] \= text
 data.loc\[0:3, \['text', 'accented\_unidecode'\]\]
 
 \========================================================================  
-Lower casing  
+### Lower casing  
 \========================================================================  
 Same word written in two different cases, gives the model redundant information.  
 Lowercasing converts all the words into lowercase to ensure that repeated occurrences of the same word in   
@@ -255,7 +255,7 @@ df\["text\_lower"\] \= df\["text"\].str.lower()
 df.head()
 
 \========================================================================  
-Removal of Special characters or punctuations  
+### Removal of Special characters or punctuations  
 \========================================================================  
 A special character is a character that is not an alphabetic or numeric character.  
 For example \!"\#$%&'()\*+,-./:;\<=\>?@\[\\\]^\_\`{|}\~ etc 
@@ -271,7 +271,7 @@ def remove\_special\_chars(text):
 df\[“remo\_special\_chars”\]  \= df\[“text”\].apply(lambda x : remove\_special\_chars(x))
 
 \========================================================================  
-stopwords   
+### Removal of stopwords   
 \========================================================================  
 Example :   
 Hey\!, Excellent movie, 1st half of movie is exceptional 2nd half bit more lagging and more   
@@ -301,7 +301,7 @@ df\['headline'\] \= df\['headline'\].apply(lambda text: remove\_stopwords(text))
 df.head()
 
 \========================================================================  
-Removal of urls  
+### Removal of urls  
 \========================================================================  
 def remove\_urls(text):  
     url\_pattern \= re.compile(r'https?://\\S+|www\\.\\S+')  
@@ -311,7 +311,7 @@ df\['headline'\] \= df\['headline'\].apply(lambda text: remove\_urls(text))
 df.head()
 
 \========================================================================  
-Removal of html  
+### Removal of html  
 \========================================================================  
 def remove\_html(text):  
     html\_pattern \= re.compile('\<.\*?\>')  
@@ -321,7 +321,7 @@ df\['headline'\] \= df\['headline'\].apply(lambda text: remove\_html(text))
 df.head()
 
 \========================================================================  
-Remove numbers  
+### Remove numbers  
 \========================================================================
 
 def remove\_numbers(text):  
@@ -332,7 +332,7 @@ data\[“text”\] \= data\[“text”\].apply(lambda x: remove\_numbers(x))
 data\[“summary”\] \= data\[“summary”\].apply(lambda x: remove\_numbers(x))
 
 \========================================================================  
-Remove ASCII characters  
+### Remove ASCII characters  
 \========================================================================
 
 def remove\_non\_ascii(words):  
@@ -344,7 +344,7 @@ def remove\_non\_ascii(words):
   return new\_words
 
 \========================================================================  
-Convert to lower case  
+### Convert to lower case  
 \========================================================================
 
 Def to\_lowercase(words):  
@@ -357,7 +357,7 @@ Def to\_lowercase(words):
   
 
 \========================================================================  
-Remove punctuations  
+### Remove punctuations  
 \========================================================================  
 def remove\_punctuation(words):  
   “””Remove punctuations from list of tokenized words”””  
@@ -368,7 +368,8 @@ def remove\_punctuation(words):
       news\_append.append(new\_word)  
   return new\_words
 
-\========================================================================Removing extra spaces  
+\========================================================================
+### Removing extra spaces  
 \========================================================================  
 This helps remove spaces at the beginning and the end of the string/sentences
 
@@ -381,7 +382,7 @@ data\['extra\_spaces'\] \= text
 data.head()
 
 \========================================================================  
-Tokenization   
+### Tokenization   
 \========================================================================  
 In this step, we break a stream of raw text into small chunks of words or sentences known as tokens.
 
@@ -389,7 +390,7 @@ There are two types of tokenization
 1\) Word tokenization  
 2\) Sentence tokenization
 
-1\) Word Tokenization 
+### 1\) Word Tokenization 
 
 A sentence can break into individual words based on a specific delimiter like space.
 
@@ -408,7 +409,7 @@ away
 
 Dis advantage of word tokenization is that it cannot handle out-of Vocabulary words.
 
-2\) Sentence Tokenization  
+### 2\) Sentence Tokenization  
 Same sentence can be break into multiple sentences base on different delimiters like "." a period
 
 2 tokens
@@ -417,7 +418,7 @@ An apple a day
 Keeps the doctor away
 
 \========================================================================  
-Stemming  
+### Stemming  
 \========================================================================  
 While communicating we add suffix or prefix to the words, this is called as inflection.  
 For example Teacher, Teaches, Teaching.
@@ -443,7 +444,7 @@ Porter stemmer
 Snowball stemmer  
 Lancaster stemmer
 
-Porter stemmer  
+### Porter stemmer  
 Martin Porter created the Porter Stemmer algorithm  
 It only works on the English Language  
 Main advantage is its speed, simplicity, and ability to generate high quality outputs  
@@ -459,7 +460,7 @@ Coder          \-		Coder
 Coding         ing		Code  
 codes          			code
 
-Snowball stemmer  
+### Snowball stemmer  
 https://www.nltk.org/api/nltk.stem.snowball.html?highlight=stemmer\#nltk.stem.snowball.EnglishStemmer  
 Martin Porter created the Snowball stemmer, it is an improved version of Porter stemmer  
 It is referred to as Porter2 stemmer  
@@ -474,7 +475,7 @@ Coder		\-		Coder
 Coding		ing		Code  
 Codes		s		Code
 
-Lancaster stemmer  
+### Lancaster stemmer  
 It is more aggressive stemmer, which means its output is sometimes aggressively stemmed, it is called as over stemming.  
 Resulted words may or may not have any linguistic meaning
 
@@ -488,7 +489,7 @@ Coder		er		Cod
 Coding		ing		Cod  
 Codes		es		Cod
 
-Advantages  
+### Advantages  
 Can process words more quickly than Lemmatization
 
 Limitations of stemming
@@ -500,7 +501,7 @@ Output always has no dictionary meaning.
 Accuracy is lower
 
 \========================================================================  
-Lemmatization  
+### Lemmatization  
 \========================================================================  
 Lemmatization reduces the word inflections to their dictionary form, referred to as Lemma  
 Lemma of a word returned always has a dictionary meaning, it is also known as dictionary-based approach.
@@ -523,7 +524,7 @@ Processing is slower compared to Stemming
 Accuracy is higher 
 
 \========================================================================  
-\# Removal of Emojis  
+###  Removal of Emojis  
 \========================================================================  
 def remove\_emoji(string):  
     emoji \= re.compile("\["  
@@ -540,7 +541,7 @@ df\['headline'\] \= df\['headline'\].apply(lambda text: remove\_emoji(text))
 df.head()
 
 \========================================================================  
-Removal of emoticons  
+### Removal of emoticons  
 \========================================================================  
 def remove\_emoticons(text):  
     emoticon\_pattern \= re.compile(u'(' \+ u'|'.join(k for k in EMOTICONS) \+ u')')  
@@ -549,7 +550,7 @@ def remove\_emoticons(text):
 remove\_emoticons("Hello :-)")
 
 \========================================================================  
-Convert emoticons  
+### Convert emoticons  
 \========================================================================  
 def convert\_emoticons(text):  
     for emot in EMOTICONS:  
@@ -560,7 +561,7 @@ text \= "Hello :-) :-)"
 convert\_emoticons(text)
 
 \========================================================================  
-Convert emojis  
+### Convert emojis  
 \========================================================================  
 def convert\_emojis(text):  
     for emot in UNICODE\_EMO:  
@@ -571,7 +572,7 @@ text \= "game is on 🔥"
 convert\_emojis(text)
 
 \========================================================================  
-Spelling Correction  
+### Spelling Correction  
 \========================================================================
 
 \!pip install autocorrect  
@@ -590,8 +591,7 @@ for i in range(data.shape\[0\]):
 data\['spell\_correct'\] \= text
 
 \========================================================================  
-Contractions   
-Decontraction of words   
+### Contractions and Decontraction of words   
 Ex:  
 I’ ll 	\-\>	I will  
 He’ ll	\-\>	He will  
@@ -606,7 +606,7 @@ S \= “I’ll, he’ll, I’m, can’t, won’t, aren’t, doesn’t, haven’t
 \[ connections.fix(w) for w in S.split()\]
 
 \========================================================================  
-Removal of html tags  
+### Removal of html tags  
 \========================================================================
 
 def strip\_html(text):  
@@ -617,7 +617,7 @@ data\[‘text’\] \= data\[“text”\].apply(lambda x: strip\_html(x))
 data\[“Summary”\] \= data\[“Summary”\].apply(lambda x: strip\_html(x))
 
 \========================================================================  
-POS Tagging \- Part of speech tagging   
+### POS Tagging \- Part of speech tagging   
 \========================================================================
 
 Part-of-Speech (POS) tagging is a preprocessing step in natural language processing (NLP) that involves assigning a grammatical category or part-of-speech label (such as noun, verb, adjective, etc.) to each word in a sentence.  
@@ -630,7 +630,7 @@ the \- determiner
 mat \- noun
 
 \========================================================================  
-NLTK \- Natural Language ToolKit  
+### NLTK \- Natural Language ToolKit  
 \========================================================================  
 NLTK is the one of the most widely used NLP library  
 Many of the functionalities provided by NLTK are currently limited to English only.  
@@ -645,7 +645,7 @@ NLTK provides support for Natural Language Generation tasks like Translation and
 NLTK package requires more storage space, but it is less memory intensive
 
 \========================================================================  
-spaCy  
+### spaCy  
 \========================================================================  
 spaCy is library for Natural Language Processing tasks  
 spaCy’s Statistical Models  
@@ -684,7 +684,7 @@ spaCy offers different package sizes (small, medium, and large) and is more memo
 Functionalities works for multiple languages apart from English Languge
 
 \========================================================================  
-Named Entity Recognition  
+### Named Entity Recognition  
 \========================================================================  
 Named Entity Recognition, or NER for short, is a subtask of NLP that focuses on identifying and classifying entities within textual data. These entities encompass a diverse range of information, including names of individuals, organizations, locations, dates, numerical values, and more.
 
@@ -702,7 +702,7 @@ E-mail address
   (PERSON Coder/NNP)  
   (PERSON Teacher/NNP Teaches/NNP Teaching/NNP))  
 \========================================================================  
-N-grams  
+### N-grams  
 \========================================================================  
 Collocations are group of words occurring together many times in a document.
 
@@ -758,7 +758,7 @@ Trigrams
  ('Teacher', 'Teaches', 'Teaching')\]
 
 \========================================================================  
-Word Cloud  
+### Word Cloud  
 \========================================================================  
 A word cloud is a visual representation of text, in which the words appear bigger the more often they are present.  
 word cloud helps on getting insights on trends and patterns 
@@ -771,7 +771,7 @@ plt.axis("off")
 plt.show()
 
 \========================================================================  
-NLP Conceptual terminologies  
+### NLP Conceptual terminologies  
 \========================================================================  
 corpus or corpora \- a single document or collection of documents   
 can be single language of texts, or can span multiple languages.  
@@ -798,7 +798,8 @@ An apple a day keeps doctor away
 
 Apple is the best smartphone brand
 
-\========================================================================Word Embedding  
+\========================================================================
+### Word Embedding  
 \========================================================================  
 Word Embedding is the process of mapping a word to a unique numerical representation.  
 This can be done in multiple ways, such as vectorization where each word is uniquely represented by a vector  
@@ -806,14 +807,15 @@ This can be done in multiple ways, such as vectorization where each word is uniq
 
 ML/DL models needs numerical representations of words 
 
-\========================================================================Vectorization  
+\========================================================================
+### Vectorization  
 \========================================================================  
 Machines can not really understand the text as input
 
 In order to perform Machine Learning on text, we need to convert text into a numerical format that machines  
 can understand in order to find patterns and make predictions
 
-on-hot encoding  
+#### on-hot encoding  
 For example  
 The 	Queen 	has 	entered		the 	room  
 1	0	0	0		0	0  
@@ -867,7 +869,7 @@ sparse vector
 variable length bow  
 Meaning of the sentence is lost if the order of the words is changed.
 
-Term Frequency \- Inverse Document Frequency ( TF-IDF):  
+### Term Frequency \- Inverse Document Frequency ( TF-IDF):  
 Measures how important a word is in a corpus.
 
 Each value in the vector corresponds to each word is product of TF and IDF  
@@ -911,7 +913,7 @@ in which it appears
 TF-IDF attempts to give higher relevance scores to the words that occur in fewer documents within the corpus.
 
 \========================================================================  
-TextBlob  
+### TextBlob  
 \========================================================================  
 Library for processing textual data
 
@@ -923,7 +925,7 @@ PatternAnalyzer and NaiveBayesAnalyzer
 NaiveBayesAnalyzer 
 
 \========================================================================  
-Classification report and Confusion matrix  
+### Classification report and Confusion matrix  
 \========================================================================
 
 \#TN/ True Negative  Actual was Negative and predicted was Negative  
@@ -1157,7 +1159,7 @@ trigram
 n-gram   
 \========================================================================
 
-NLP Terminologies
+### NLP Terminologies
 
 Text corpus or corpora/Corpus \- A corpus is a large set of text data that can be in one of the languages like English, French and so on.  
 The corpus can consist of a single document or a bunch of documents
@@ -1195,7 +1197,7 @@ Pre-processed tweets
 3\. Feature Extractor TF-IDF feature vectors  
 4\. ML/DL models for classification
 
-Popular NLP Libraries
+### Popular NLP Libraries
 
 NLTK \- the Natural Language Toolkit
 
@@ -1208,7 +1210,7 @@ RASA \-
 Hugging Face \- 
 
 \========================================================================  
-Chatbot  
+## Chatbot  
 \========================================================================
 
 Introduction to chatbots
@@ -1304,7 +1306,7 @@ into a form that ML algorithms use
 Code a chatbot
 
 \========================================================================  
-Vectorization  
+## Vectorization  
 \========================================================================
 
 Bag-of-Words (Count Vectorizer)
@@ -1315,7 +1317,7 @@ TF-IDF
 
 TF-IDF creates vectors from text which contains information on the more important words and the less important ones as well
 
-Word2Vec
+### Word2Vec
 
 Word2Vec creates vectors that are numerical representations of word features, features such as the context of individual words. The purpose and usefulness of Word2Vec is to group the vectors of similar words together in vector space. That is, it detects similarities mathematically.
 
