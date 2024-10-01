@@ -87,15 +87,15 @@ Let’s look at a few examples where machine learning is being applied.
 
 ## Types:
 
-#### Supervised Learning: 
+* #### Supervised Learning: 
 Algorithms learn from labeled data (e.g., classification, Linear Regression, Logistic Regression, Support Vector Classifier).
 
-#### Unsupervised Learning: 
+* #### Unsupervised Learning: 
 Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction).
 
 [Difference between labelled and unlabeled data](https://www.kaggle.com/discussions/general/187644)
 
-#### Reinforcement Learning: 
+* #### Reinforcement Learning: 
 Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
   [Types And Applications Of Machine Learning | Eduonix Youtube Vidoe](https://www.youtube.com/watch?v=mWxhsBFatvA)
@@ -106,15 +106,15 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 ## Machine Learning steps:
 
-Gathering relevant data is essential for training ML models.
+* Gathering relevant data is essential for training ML models.
 
-Data Preparation: Cleaning, preprocessing, and feature engineering are crucial steps.
+* Data Preparation: Cleaning, preprocessing, and feature engineering are crucial steps.
 
-Model Selection and Training: Choosing the appropriate ML algorithm and training it on the data.
+* Model Selection and Training: Choosing the appropriate ML algorithm and training it on the data.
 
-Evaluation: Assessing the model's performance using metrics like accuracy, precision, and recall.
+* Evaluation: Assessing the model's performance using metrics like accuracy, precision, and recall.
 
-Deployment: Integrating the trained model into real-world applications.
+* Deployment: Integrating the trained model into real-world applications.
 
   #### Step 1: Data Manipulation
   This is a process of data preparation. ML usually uses the largest sets of data available.
