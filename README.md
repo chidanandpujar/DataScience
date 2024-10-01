@@ -292,5 +292,5 @@ https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 [The AI Energy Crisis](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
-## Q and A:
+## [Q and A:](https://github.com/chidanandpujar/DataScience/blob/main/Q%26A.md)
 ![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image2.png)
