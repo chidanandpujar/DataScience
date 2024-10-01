@@ -120,32 +120,32 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
   This is a process of data preparation. ML usually uses the largest sets of data available.
   The first step in data manipulation is Data Acquisition. 
   
-  ##### Data acquisition 
+  * ##### Data acquisition 
   is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
   Using our car example, you might measure engine size, number of doors, size of tyres etc.
 
   The data acquired should be reliable for converting into digital numeric values that can be manipulated by a computer. 
   Number of car doors is easy; style is less easy to define numerically.
 
-  ##### Data Storage
+  * ##### Data Storage
  Store the data in databases or create xls or csv files.
  
-  ##### Data cleaning 
+  * ##### Data cleaning 
  Any redundant, noisy, duplicate values, missing values ,unusable parts of it should be trimmed. We call this procedure Data Cleaning.
 
   #### Step 2: Analytics
 
-  ##### Finding Relationships:  
+  * ##### Finding Relationships:  
   
   Analytics mainly involves finding relationships and correlations in the prepared data in order to design an accurate model based on that input data.
   
-  ##### Exploratory Data Analysis
+  * ##### Exploratory Data Analysis
   
   Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
   Many exploratory data analysis methods use visual illustration of data, based on different features. Things like graphs, charts and 
   tables make data easier to understand.
    
-  ##### Predictive Machine Learning
+  * ##### Predictive Machine Learning
   
   Selecting a machine learning model and training the model on the test data
   
@@ -228,19 +228,19 @@ https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudgin
 
 ## Python Libraries/Tools
 
-numpy is the package for efficient scientific computing in Python
+* numpy is the package for efficient scientific computing in Python
 
-scipy is one of the core packages for scientific computations
+* scipy is one of the core packages for scientific computations
 
-pandas is a library for operating with table-like data structures called DataFrame object
+* pandas is a library for operating with table-like data structures called DataFrame object
 
-matplotlib is a comprehensive plotting library
+* matplotlib is a comprehensive plotting library
 
-BeautifulSoup is an HTML and XML parser
+* BeautifulSoup is an HTML and XML parser
 
-scikit-learn is the most general machine learning library for Python
+* scikit-learn is the most general machine learning library for Python
 
-nltk is a toolkit for natural language processing
+* nltk is a toolkit for natural language processing
 
 https://numpy.org/
 
