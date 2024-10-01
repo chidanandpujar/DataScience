@@ -128,10 +128,10 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
   Number of car doors is easy; style is less easy to define numerically.
 
   * ##### Data Storage
- Store the data in databases or create xls or csv files.
+  Store the data in databases or create xls or csv files.
  
   * ##### Data cleaning 
- Any redundant, noisy, duplicate values, missing values ,unusable parts of it should be trimmed. We call this procedure Data Cleaning.
+  Any redundant, noisy, duplicate values, missing values ,unusable parts of it should be trimmed. We call this procedure Data Cleaning.
 
   #### Step 2: Analytics
 
@@ -140,7 +140,7 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
   Analytics mainly involves finding relationships and correlations in the prepared data in order to design an accurate model based on that input data.
   
   * ##### Exploratory Data Analysis
-  
+
   Exploratory Data Analysis is an approach for analysing datasets in order to summarise their main characteristics or features. 
   Many exploratory data analysis methods use visual illustration of data, based on different features. Things like graphs, charts and 
   tables make data easier to understand.
@@ -150,9 +150,11 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
   Selecting a machine learning model and training the model on the test data
   
   #### Step 3: Evaluation and Visualisation
+  
   The final result of Analytics is an intelligent system or model. As the last step of ML design, we have to evaluate the performance of the system. 
 
   #### Step 4: Refinement/Hyper Parameter Tuning:
+  
   If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
   the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
 
