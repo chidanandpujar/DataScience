@@ -121,7 +121,7 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
   The first step in data manipulation is Data Acquisition. 
   
   * ##### Data acquisition 
-  is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
+  This is the process of sampling information that illustrates real world physical conditions with a predefined measurement. 
   Using our car example, you might measure engine size, number of doors, size of tyres etc.
 
   The data acquired should be reliable for converting into digital numeric values that can be manipulated by a computer. 
