@@ -227,6 +227,8 @@ http://neuralnetworksanddeeplearning.com/about.html
 
 https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
 
+https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
+
 
 ## Python Libraries/Tools
 
