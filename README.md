@@ -22,6 +22,12 @@ Capable of understanding, learning, and applying knowledge across domains.
 
   [What is AI for people in a Hurry Youtube Video](https://www.youtube.com/watch?v=2ePf9rue1Ao)
 
+  [Podcast on NLP](https://www.youtube.com/watch?v=m6YXwz5x4qw)
+
+  [Podcast on NLP text preprocessin](https://www.youtube.com/watch?v=vowzWC4ZUbA)
+
+  [Podcast on chatbots](https://www.youtube.com/watch?v=x2VuaVy0fwQ)
+
 ## Machine Learning as an equation:
 
   A computer program is said to learn from experience E with respect to some class of tasks T 
