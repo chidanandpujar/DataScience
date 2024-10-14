@@ -241,24 +241,31 @@ https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec7
 ## Python Libraries/Tools
 
 * numpy is the package for efficient scientific computing in Python
+  
   https://numpy.org/
 
 * scipy is one of the core packages for scientific computations
+  
   https://scipy.org/
 
 * pandas is a library for operating with table-like data structures called DataFrame object
+  
   https://pandas.pydata.org/
 
 * matplotlib is a comprehensive plotting library
+  
   https://matplotlib.org/
 
 * BeautifulSoup is an HTML and XML parser
+  
   https://pypi.org/project/beautifulsoup4/
 
 * scikit-learn is the most general machine learning library for Python
+  
   https://scikit-learn.org/stable/index.html
 
 * nltk is a toolkit for natural language processing
+  
   https://www.nltk.org/
 
 https://www.tensorflow.org/
