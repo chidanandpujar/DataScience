@@ -24,7 +24,7 @@ Capable of understanding, learning, and applying knowledge across domains.
 
   [Podcast on NLP](https://www.youtube.com/watch?v=m6YXwz5x4qw)
 
-  [Podcast on NLP text preprocessin](https://www.youtube.com/watch?v=vowzWC4ZUbA)
+  [Podcast on NLP text preprocessing](https://www.youtube.com/watch?v=vowzWC4ZUbA)
 
   [Podcast on chatbots](https://www.youtube.com/watch?v=x2VuaVy0fwQ)
 
