@@ -16,6 +16,8 @@ Designed for specific tasks (e.g., facial recognition, self-driving cars).
 
 Capable of understanding, learning, and applying knowledge across domains.
 
+  [Podcast on AI and ML](https://www.youtube.com/watch?v=j7TKCjNSZ70)
+  
   [Introduction to AI youtube video](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
   [What is AI for people in a Hurry Youtube Video](https://www.youtube.com/watch?v=2ePf9rue1Ao)
