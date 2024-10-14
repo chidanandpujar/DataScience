@@ -64,15 +64,22 @@ UCI Machine Learning Repository: A vast collection of datasets for various domai
 
 Kaggle Datasets: A platform with a wide range of datasets and competitions.
 
-8. Which Python libraries are commonly used in Data Science and Machine Learning?
+9. Which Python libraries are commonly used in Data Science and Machine Learning?
    
 Essential Python libraries for data science and machine learning include:
 
 NumPy: For numerical computing and array manipulation.
+
 SciPy: For scientific and technical computing.
+
 Pandas: For data manipulation and analysis using DataFrames.
+
 Matplotlib: For data visualization and plotting.
+
 Scikit-learn: For implementing various machine learning algorithms.
+
 NLTK: For natural language processing tasks.
+
 TensorFlow and Keras: For deep learning model development.
+
 Beautiful Soup: For web scraping and parsing HTML and XML data.
