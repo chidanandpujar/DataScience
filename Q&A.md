@@ -1,11 +1,11 @@
 # Questions and Answers
 
 Data Science and Machine Learning FAQ
-1. What is Artificial Intelligence (AI)?
+## 1. What is Artificial Intelligence (AI)?
 
 AI involves simulating human intelligence in machines, enabling them to think and learn like humans. It encompasses subfields like Narrow AI, focused on specific tasks (e.g., facial recognition), and General AI, aiming to understand and apply knowledge across diverse domains.
 
-2. What are the real-world applications of Machine Learning?
+## 2. What are the real-world applications of Machine Learning?
 
 Machine learning, a subset of AI, finds applications in various fields:
 
@@ -21,7 +21,7 @@ Digit Recognition: Automating tasks like reading handwritten numbers and detecti
 
 Other areas: Healthcare analytics, stock market prediction, business analytics, and more.
 
-3. What are the different types of Machine Learning?
+## 3. What are the different types of Machine Learning?
 
 Supervised Learning: Algorithms learn from labeled data, meaning the input data is already tagged with the correct output. This is used for tasks like classification and regression.
 
@@ -29,7 +29,8 @@ Unsupervised Learning: Algorithms learn from unlabeled data, identifying pattern
 
 Reinforcement Learning: Algorithms learn through trial and error, receiving rewards or penalties for their actions. This is used for tasks like game playing and robotics.
 
-4. What are the steps involved in a Machine Learning project?
+## 4. What are the steps involved in a Machine Learning project?
+
 A typical machine learning project involves these key steps:
 
 Data Manipulation: Gathering, cleaning, and preparing data for analysis. This includes data acquisition, storage, and cleaning to remove inconsistencies and errors.
@@ -40,7 +41,7 @@ Evaluation and Visualisation: Assessing the performance of the trained model and
 
 Refinement/Hyperparameter Tuning: Improving the model by adjusting parameters and retraining if the initial results are not satisfactory.
 
-5. What is Natural Language Processing (NLP)?
+## 5. What is Natural Language Processing (NLP)?
    
 NLP focuses on enabling computers to understand, interpret, and generate human language. This involves tasks like:
 
@@ -52,11 +53,11 @@ Machine translation: Automatically translating text between different languages.
 
 Chatbot development: Creating conversational AI agents that can interact with humans.
 
-6. What is Generative AI?
+## 6. What is Generative AI?
    
 Generative AI refers to AI systems capable of creating new content, such as images, text, music, and code. These models learn patterns and structures from existing data and use this knowledge to generate novel outputs.
 
-8. Where can I find datasets for Machine Learning?
+## 7. Where can I find datasets for Machine Learning?
    
 Several platforms offer datasets for machine learning projects:
 
@@ -64,7 +65,7 @@ UCI Machine Learning Repository: A vast collection of datasets for various domai
 
 Kaggle Datasets: A platform with a wide range of datasets and competitions.
 
-9. Which Python libraries are commonly used in Data Science and Machine Learning?
+## 8. Which Python libraries are commonly used in Data Science and Machine Learning?
    
 Essential Python libraries for data science and machine learning include:
 
