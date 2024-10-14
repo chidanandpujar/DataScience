@@ -1,4 +1,6 @@
-# References
+# Data Science
+
+## References
 
 [Datascience Questions](https://github.com/iNeuronai/interview-question-data-science-)
 
@@ -19,7 +21,7 @@
 [urllib](https://docs.python.org/3/library/urllib.html)
 
 
-# Data Privacy:
+## Data Privacy:
 
 https://demystifymachinelearning.wordpress.com/2018/11/20/intro-to-differential-privacy/
 
