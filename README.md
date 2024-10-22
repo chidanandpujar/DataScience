@@ -180,6 +180,8 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 [NLP](https://github.com/chidanandpujar/DataScience/blob/main/NLP.md)
 
+[Basics of Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
+
 [Demo1: Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
 
 [Demo2: Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
