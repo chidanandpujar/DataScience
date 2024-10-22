@@ -2,6 +2,10 @@
 
 ## References
 
+[sqlbolt](https://sqlbolt.com/)
+
+[Maths](https://www.mathsisfun.com/)
+
 [Datascience Questions](https://github.com/iNeuronai/interview-question-data-science-)
 
 [How to install (py)Spark on MacOS](https://maelfabien.github.io/bigdata/SparkInstall/#)
