@@ -1,3 +1,5 @@
+![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image3.png)
+
 # Data Science
 
 ## References
