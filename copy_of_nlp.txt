@@ -379,8 +379,8 @@ Converting the inflections of words to the base form or the stem word is called 
 ML/DL models considers these as different words, and this adds more dimensions to the trainig data.
 
 For example
-[Inflections] ==============> [Stem] Like
-Likes
+[Inflections] 			 [Stem]
+Likes				 like
 Liked
 Liking
 Likely 
