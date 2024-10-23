@@ -1,3 +1,4 @@
+![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image3.png)
 
 ## NLP \- Natural Language Processing  
 
