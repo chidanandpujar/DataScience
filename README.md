@@ -178,6 +178,7 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 ## Natural Language Processing (NLP)
 
+![NLP](https://www.youtube.com/watch?v=972rilLgOJo)
 [NLP](https://github.com/chidanandpujar/DataScience/blob/main/NLP.md)
 
 [Basics of Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
