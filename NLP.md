@@ -617,9 +617,9 @@ def strip\_html(text):
 data\[‘text’\] \= data\[“text”\].apply(lambda x: strip\_html(x))  
 data\[“Summary”\] \= data\[“Summary”\].apply(lambda x: strip\_html(x))
 
-\========================================================================  
+
 ### POS Tagging \- Part of speech tagging   
-\========================================================================
+
 
 Part-of-Speech (POS) tagging is a preprocessing step in natural language processing (NLP) that involves assigning a grammatical category or part-of-speech label (such as noun, verb, adjective, etc.) to each word in a sentence.  
 For example The cat sat on the mat  
@@ -630,9 +630,9 @@ on \- preposition
 the \- determiner  
 mat \- noun
 
-\========================================================================  
+
 ### NLTK \- Natural Language ToolKit  
-\========================================================================  
+ 
 NLTK is the one of the most widely used NLP library  
 Many of the functionalities provided by NLTK are currently limited to English only.  
 Most of the text preprocessing task can be performed using NLTK.  
@@ -645,9 +645,9 @@ NLTK provides support for Natural Language Generation tasks like Translation and
 
 NLTK package requires more storage space, but it is less memory intensive
 
-\========================================================================  
+
 ### spaCy  
-\========================================================================  
+
 spaCy is library for Natural Language Processing tasks  
 spaCy’s Statistical Models  
 spaCy’s Processing Pipeline
@@ -684,9 +684,9 @@ spaCy offers different package sizes (small, medium, and large) and is more memo
 
 Functionalities works for multiple languages apart from English Languge
 
-\========================================================================  
+
 ### Named Entity Recognition  
-\========================================================================  
+
 Named Entity Recognition, or NER for short, is a subtask of NLP that focuses on identifying and classifying entities within textual data. These entities encompass a diverse range of information, including names of individuals, organizations, locations, dates, numerical values, and more.
 
 Some of the categories that are the most important architecture in NER such that:  
@@ -702,9 +702,10 @@ E-mail address
 
   (PERSON Coder/NNP)  
   (PERSON Teacher/NNP Teaches/NNP Teaching/NNP))  
-\========================================================================  
+  
+
 ### N-grams  
-\========================================================================  
+
 Collocations are group of words occurring together many times in a document.
 
 Unigram \- An N-gram consisting of a single item from a sequence   
@@ -758,9 +759,9 @@ Trigrams
  ('.', 'Teacher', 'Teaches'),  
  ('Teacher', 'Teaches', 'Teaching')\]
 
-\========================================================================  
+ 
 ### Word Cloud  
-\========================================================================  
+ 
 A word cloud is a visual representation of text, in which the words appear bigger the more often they are present.  
 word cloud helps on getting insights on trends and patterns 
 
@@ -771,9 +772,9 @@ plt.imshow(wordcloud)
 plt.axis("off")  
 plt.show()
 
-\========================================================================  
+
 ### NLP Conceptual terminologies  
-\========================================================================  
+ 
 corpus or corpora \- a single document or collection of documents   
 can be single language of texts, or can span multiple languages.  
 For example All the articles of a news paper, Blogs grom blogging sites, Threads of a Discussion Form
@@ -799,18 +800,18 @@ An apple a day keeps doctor away
 
 Apple is the best smartphone brand
 
-\========================================================================
+
 ### Word Embedding  
-\========================================================================  
+
 Word Embedding is the process of mapping a word to a unique numerical representation.  
 This can be done in multiple ways, such as vectorization where each word is uniquely represented by a vector  
 (array of values)
 
 ML/DL models needs numerical representations of words 
 
-\========================================================================
+
 ### Vectorization  
-\========================================================================  
+ 
 Machines can not really understand the text as input
 
 In order to perform Machine Learning on text, we need to convert text into a numerical format that machines  
@@ -925,9 +926,9 @@ PatternAnalyzer and NaiveBayesAnalyzer
 
 NaiveBayesAnalyzer 
 
-\========================================================================  
+
 ### Classification report and Confusion matrix  
-\========================================================================
+
 
 \#TN/ True Negative  Actual was Negative and predicted was Negative  
 \#TP/ True Positive  Actual was Positive and predicted was positive  
@@ -1060,9 +1061,6 @@ array(\[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0,
        0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0,  
        0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0\])
 
-\========================================================================  
-Reference   
-\========================================================================
 
 Bow \- unique set of words in corpus 
 
@@ -1158,7 +1156,7 @@ unigram
 bigram   
 trigram   
 n-gram   
-\========================================================================
+
 
 ### NLP Terminologies
 
@@ -1210,9 +1208,9 @@ RASA \-
 
 Hugging Face \- 
 
-\========================================================================  
+ 
 ## Chatbot  
-\========================================================================
+
 
 Introduction to chatbots
 
@@ -1304,11 +1302,8 @@ blog	0	0	0	1
 One hot encoding: One hot encoding is a process by which categorical variables are converted   
 into a form that ML algorithms use		
 
-Code a chatbot
-
-\========================================================================  
 ## Vectorization  
-\========================================================================
+
 
 Bag-of-Words (Count Vectorizer)
 
@@ -1322,5 +1317,5 @@ TF-IDF creates vectors from text which contains information on the more importan
 
 Word2Vec creates vectors that are numerical representations of word features, features such as the context of individual words. The purpose and usefulness of Word2Vec is to group the vectors of similar words together in vector space. That is, it detects similarities mathematically.
 
-\========================================================================
+
 
