@@ -182,9 +182,11 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 [Basics of Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
 
-[Demo1: Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
+[Demo1: Text Based Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
 
-[Demo2: Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
+[Demo2: Text Based Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
+
+[Demo3: Voice Based Chatbot](https://drive.google.com/file/d/10WEIuhjM2w2NSQoRH9FnRi1YDTjqDi3X/view?usp=sharing)
 
 ## Generative AI:
 
