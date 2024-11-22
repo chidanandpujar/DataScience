@@ -3,7 +3,7 @@
 ## NLP \- Natural Language Processing  
 
 
-The introduction to NLP  
+Introduction to NLP  
 The need for NLP  
 Applications of NLP  
 Tasks in NLP  
