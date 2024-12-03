@@ -1318,5 +1318,6 @@ TF-IDF creates vectors from text which contains information on the more importan
 Word2Vec creates vectors that are numerical representations of word features, features such as the context of individual words. The purpose and usefulness of Word2Vec is to group the vectors of similar words together in vector space. That is, it detects similarities mathematically.
 
 
-Referrence:
-[Free Generative AI courses by Great Learning](https://www.mygreatlearning.com/generative-ai/free-courses)
+Reference:
+
+1. [Free Generative AI courses by Great Learning](https://www.mygreatlearning.com/generative-ai/free-courses)
