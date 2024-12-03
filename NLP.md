@@ -1321,3 +1321,5 @@ Word2Vec creates vectors that are numerical representations of word features, fe
 Reference:
 
 1. [Free Generative AI courses by Great Learning](https://www.mygreatlearning.com/generative-ai/free-courses)
+2. [Krishnaik githup repo for genai](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/tree/main)
+3. [krishnaik youtube vidoe on genai roadmap](https://www.youtube.com/watch?v=nCglvjJkU8A)
