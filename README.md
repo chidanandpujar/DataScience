@@ -188,6 +188,8 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 [Demo3: Voice Based Chatbot](https://drive.google.com/file/d/10WEIuhjM2w2NSQoRH9FnRi1YDTjqDi3X/view?usp=sharing)
 
+[TfidfVectorizer](https://www.geeksforgeeks.org/how-to-store-a-tfidfvectorizer-for-future-use-in-scikit-learn/)
+
 ## Generative AI:
 
 [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)
