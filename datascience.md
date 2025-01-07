@@ -4,6 +4,56 @@
 
 ## References
 
+[Data Wrangling](https://datawranglingpy.gagolewski.com/)
+
+[LP model graphics method](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en)
+
+(https://www.desmos.com/calculator)
+
+(https://support.minitab.com/en-us/minitab/help-and-how-to/statistics/basic-statistics/supporting-topics/correlation-and-covariance/a-comparison-of-the-pearson-and-spearman-correlation-methods/)
+
+(https://journals.lww.com/anesthesia-analgesia/fulltext/2018/05000/correlation_coefficients__appropriate_use_and.50.aspx)
+
+https://statisticsglobe.com/weighted-mean-in-r-example
+
+https://www.ijstr.org/final-print/nov2019/A-Decision-Making-Problem-As-An-Application-Of-Fuzzy-Sets.pdf
+
+https://formations.telecom-bretagne.eu/or/files/articles/grabischKojadinovicMeyer2006.pdf
+
+https://www.youtube.com/@SimonJames_Maths/videos
+
+https://netflixtechblog.com/artwork-personalization-c589f074ad76
+
+https://www.wiley.com/en-us/Data+Science+and+Big+Data+Analytics%3A+Discovering%2C+Analyzing%2C+Visualizing+and+Presenting+Data-p-9781118876138
+
+https://www.datanovia.com/en/blog/how-to-normalize-and-standardize-data-in-r-for-great-heatmap-visualization/
+
+https://cran.r-project.org/web/packages/bestNormalize/vignettes/bestNormalize.html
+
+[R Programming](https://rcompanion.org/handbook/I_12.html)
+
+[R Programming](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html)
+
+[R Programming](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+
+[R Programming](https://www.youtube.com/watch?v=fDRa82lxzaU)
+
+[R Programming](https://www.youtube.com/watch?v=RwDV802ckU8)
+
+[R Programming](https://www.youtube.com/watch?v=eR-XRSKsuR4)
+
+https://www.sthda.com/english/wiki/correlation-analyses-in-r
+
+https://cran.r-project.org/web/packages/modeest/modeest.pdf
+
+[Data science code of professional conduct](https://www.datascienceassn.org/code-of-conduct.html)
+
+[Blog post: Datasets for data cleaning practice](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
+
+[Data Law & Policy](https://www.d2dcrc.com.au/law-policy)
+
+
+
 [sqlbolt](https://sqlbolt.com/)
 
 [Maths](https://www.mathsisfun.com/)
