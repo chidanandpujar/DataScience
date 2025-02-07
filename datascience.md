@@ -4,88 +4,86 @@
 
 ## References
 
-[Data Wrangling](https://datawranglingpy.gagolewski.com/)
+* [Data Wrangling](https://datawranglingpy.gagolewski.com/)
 
-[LP model graphics method](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en)
+* [LP model graphics method](https://www.zweigmedia.com/utilities/lpg/index.html?lang=en)
 
-(https://www.desmos.com/calculator)
+* https://www.desmos.com/calculator
 
-(https://support.minitab.com/en-us/minitab/help-and-how-to/statistics/basic-statistics/supporting-topics/correlation-and-covariance/a-comparison-of-the-pearson-and-spearman-correlation-methods/)
+* (https://support.minitab.com/en-us/minitab/help-and-how-to/statistics/basic-statistics/supporting-topics/correlation-and-covariance/a-comparison-of-the-pearson-and-spearman-correlation-methods/)
 
-(https://journals.lww.com/anesthesia-analgesia/fulltext/2018/05000/correlation_coefficients__appropriate_use_and.50.aspx)
+* (https://journals.lww.com/anesthesia-analgesia/fulltext/2018/05000/correlation_coefficients__appropriate_use_and.50.aspx)
 
-https://statisticsglobe.com/weighted-mean-in-r-example
+* https://statisticsglobe.com/weighted-mean-in-r-example
 
-https://www.ijstr.org/final-print/nov2019/A-Decision-Making-Problem-As-An-Application-Of-Fuzzy-Sets.pdf
+* https://www.ijstr.org/final-print/nov2019/A-Decision-Making-Problem-As-An-Application-Of-Fuzzy-Sets.pdf
 
-https://formations.telecom-bretagne.eu/or/files/articles/grabischKojadinovicMeyer2006.pdf
+* https://formations.telecom-bretagne.eu/or/files/articles/grabischKojadinovicMeyer2006.pdf
 
-https://www.youtube.com/@SimonJames_Maths/videos
+* https://www.youtube.com/@SimonJames_Maths/videos
 
-https://netflixtechblog.com/artwork-personalization-c589f074ad76
+* https://netflixtechblog.com/artwork-personalization-c589f074ad76
 
-https://www.wiley.com/en-us/Data+Science+and+Big+Data+Analytics%3A+Discovering%2C+Analyzing%2C+Visualizing+and+Presenting+Data-p-9781118876138
+* https://www.wiley.com/en-us/Data+Science+and+Big+Data+Analytics%3A+Discovering%2C+Analyzing%2C+Visualizing+and+Presenting+Data-p-9781118876138
 
-https://www.datanovia.com/en/blog/how-to-normalize-and-standardize-data-in-r-for-great-heatmap-visualization/
+* https://www.datanovia.com/en/blog/how-to-normalize-and-standardize-data-in-r-for-great-heatmap-visualization/
 
-https://cran.r-project.org/web/packages/bestNormalize/vignettes/bestNormalize.html
+* https://cran.r-project.org/web/packages/bestNormalize/vignettes/bestNormalize.html
 
-[R Programming](https://rcompanion.org/handbook/I_12.html)
+* [R Programming](https://rcompanion.org/handbook/I_12.html)
 
-[R Programming](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html)
+* [R Programming](https://stat.ethz.ch/R-manual/R-devel/library/stats/html/Distributions.html)
 
-[R Programming](https://www.youtube.com/watch?v=_V8eKsto3Ug)
+* [R Programming](https://www.youtube.com/watch?v=_V8eKsto3Ug)
 
-[R Programming](https://www.youtube.com/watch?v=fDRa82lxzaU)
+* [R Programming](https://www.youtube.com/watch?v=fDRa82lxzaU)
 
-[R Programming](https://www.youtube.com/watch?v=RwDV802ckU8)
+* [R Programming](https://www.youtube.com/watch?v=RwDV802ckU8)
 
-[R Programming](https://www.youtube.com/watch?v=eR-XRSKsuR4)
+* [R Programming](https://www.youtube.com/watch?v=eR-XRSKsuR4)
 
-https://www.sthda.com/english/wiki/correlation-analyses-in-r
+* https://www.sthda.com/english/wiki/correlation-analyses-in-r
 
-https://cran.r-project.org/web/packages/modeest/modeest.pdf
+* https://cran.r-project.org/web/packages/modeest/modeest.pdf
 
-[Data science code of professional conduct](https://www.datascienceassn.org/code-of-conduct.html)
+* [Data science code of professional conduct](https://www.datascienceassn.org/code-of-conduct.html)
 
-[Blog post: Datasets for data cleaning practice](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
+* [Blog post: Datasets for data cleaning practice](https://makingnoiseandhearingthings.com/2018/04/19/datasets-for-data-cleaning-practice/)
 
-[Data Law & Policy](https://www.d2dcrc.com.au/law-policy)
+* [Data Law & Policy](https://www.d2dcrc.com.au/law-policy)
 
+* [sqlbolt](https://sqlbolt.com/)
 
+* [Maths](https://www.mathsisfun.com/)
 
-[sqlbolt](https://sqlbolt.com/)
+* [Datascience Questions](https://github.com/iNeuronai/interview-question-data-science-)
 
-[Maths](https://www.mathsisfun.com/)
+* [How to install (py)Spark on MacOS](https://maelfabien.github.io/bigdata/SparkInstall/#)
 
-[Datascience Questions](https://github.com/iNeuronai/interview-question-data-science-)
+* [Install Spark on Windows Laptop for Development](https://phoenixnap.com/kb/jupyter-pyspark)
 
-[How to install (py)Spark on MacOS](https://maelfabien.github.io/bigdata/SparkInstall/#)
+* [How to Run PySpark in a Jupyter Notebook](https://phoenixnap.com/kb/install-spark-on-windows-10)
 
-[Install Spark on Windows Laptop for Development](https://phoenixnap.com/kb/jupyter-pyspark)
+* [Apache Parquet](https://parquet.apache.org/)
 
-[How to Run PySpark in a Jupyter Notebook](https://phoenixnap.com/kb/install-spark-on-windows-10)
+* [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
 
-[Apache Parquet](https://parquet.apache.org/)
+* [Web scraping](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
 
-[10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+* [Web scraping](https://adesquared.wordpress.com/2013/06/16/using-python-beautifulsoup-to-scrape-a-wikipedia-table/)
 
-[Web scraping](https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/)
-
-[Web scraping](https://adesquared.wordpress.com/2013/06/16/using-python-beautifulsoup-to-scrape-a-wikipedia-table/)
-
-[urllib](https://docs.python.org/3/library/urllib.html)
+* [urllib](https://docs.python.org/3/library/urllib.html)
 
 
 ## Data Privacy:
 
-https://demystifymachinelearning.wordpress.com/2018/11/20/intro-to-differential-privacy/
+* https://demystifymachinelearning.wordpress.com/2018/11/20/intro-to-differential-privacy/
 
-https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/
+* https://www.wired.com/2016/06/apples-differential-privacy-collecting-data/
 
-https://github.com/tulip-lab/sit742/blob/main/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb
+* https://github.com/tulip-lab/sit742/blob/main/Jupyter/M06-Advanced/M06A-IBMDP-30Seconds.ipynb
 
-https://github.com/tulip-lab/sit742/blob/main/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb
+* https://github.com/tulip-lab/sit742/blob/main/Jupyter/M06-Advanced/M06B-IBMDP-Exploration.ipynb
 
 
 ## Tableau
