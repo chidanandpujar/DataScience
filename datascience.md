@@ -90,14 +90,14 @@ https://github.com/tulip-lab/sit742/blob/main/Jupyter/M06-Advanced/M06B-IBMDP-Ex
 
 ## Tableau
 
-[To create account](https://public.tableau.com/s/)
+* [To create account](https://public.tableau.com/s/)
 
-[Free videos](https://public.tableau.com/app/learn/how-to-videos)
+* [Free videos](https://public.tableau.com/app/learn/how-to-videos)
 
-[Training videos](https://www.tableau.com/learn/training/20214)
-[Training vidoes](https://www.tableau.com/products/our-platform#video)
-[Training videos](https://www.tableau.com/data-insights/dashboard-showcase)
-[Training vidoes](https://public.tableau.com/app/discover/viz-of-the-day)
+* [Training videos](https://www.tableau.com/learn/training/20214)
+* [Training vidoes](https://www.tableau.com/products/our-platform#video)
+* [Training videos](https://www.tableau.com/data-insights/dashboard-showcase)
+* [Training vidoes](https://public.tableau.com/app/discover/viz-of-the-day)
 
 
 ## Power BI:
