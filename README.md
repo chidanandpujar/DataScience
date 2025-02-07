@@ -16,19 +16,19 @@ Designed for specific tasks (e.g., facial recognition, self-driving cars).
 
 Capable of understanding, learning, and applying knowledge across domains.
 
-  [Podcast on AI and ML](https://www.youtube.com/watch?v=j7TKCjNSZ70)
+  * [Podcast on AI and ML](https://www.youtube.com/watch?v=j7TKCjNSZ70)
   
-  [Introduction to AI youtube video](https://www.youtube.com/watch?v=qYNweeDHiyU)
+  * [Introduction to AI youtube video](https://www.youtube.com/watch?v=qYNweeDHiyU)
 
-  [What is AI for people in a Hurry Youtube Video](https://www.youtube.com/watch?v=2ePf9rue1Ao)
+  * [What is AI for people in a Hurry Youtube Video](https://www.youtube.com/watch?v=2ePf9rue1Ao)
 
-  [Podcast on NLP](https://www.youtube.com/watch?v=m6YXwz5x4qw)
+  * [Podcast on NLP](https://www.youtube.com/watch?v=m6YXwz5x4qw)
 
-  [Podcast1 on NLP Text preprocessing](https://www.youtube.com/watch?v=vowzWC4ZUbA)
+  * [Podcast1 on NLP Text preprocessing](https://www.youtube.com/watch?v=vowzWC4ZUbA)
 
-  [Podcast2 on NLP Text preprocessing](https://www.youtube.com/watch?v=972rilLgOJo)
+  * [Podcast2 on NLP Text preprocessing](https://www.youtube.com/watch?v=972rilLgOJo)
 
-  [Podcast on chatbots](https://www.youtube.com/watch?v=x2VuaVy0fwQ)
+  * [Podcast on chatbots](https://www.youtube.com/watch?v=x2VuaVy0fwQ)
 
 ## Machine Learning as an equation:
 
@@ -89,11 +89,11 @@ Let’s look at a few examples where machine learning is being applied.
      
   A wide variety of machine learning applications are related to:
 
-  healthcare analytics
+  * healthcare analytics
       
-  stock market prediction
+  * stock market prediction
       
-  business analytics
+  * business analytics
 
 ## Types:
 
@@ -108,11 +108,11 @@ Algorithms learn from unlabeled data (e.g., clustering, dimensionality reduction
 * #### Reinforcement Learning: 
 Algorithms learn through trial and error, receiving rewards or penalties (e.g., game playing, robotics).
 
-  [Types And Applications Of Machine Learning | Eduonix Youtube Vidoe](https://www.youtube.com/watch?v=mWxhsBFatvA)
+  * [Types And Applications Of Machine Learning | Eduonix Youtube Vidoe](https://www.youtube.com/watch?v=mWxhsBFatvA)
 
-  [Google DeepMind Demos AI Training Robots to Play Soccer / Football](https://www.youtube.com/watch?v=RbyQcCT6890)
+  * [Google DeepMind Demos AI Training Robots to Play Soccer / Football](https://www.youtube.com/watch?v=RbyQcCT6890)
   
-  [What Is Reinforcement Machine Learning? Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
+  * [What Is Reinforcement Machine Learning? Youtube Video](https://www.youtube.com/watch?v=vRcW5LDB7ng)
 
 ## Machine Learning steps:
 
@@ -168,13 +168,13 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
   If the quality and performance of the intelligent system does not achieve a satisfactory outcome, 
   the Refinement procedure is required and another round of data manipulation and analytics becomes necessary.
 
-  [The 7 steps of machine learning Youtube Video](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&t=635s)
+   * [The 7 steps of machine learning Youtube Video](https://www.youtube.com/watch?v=nKW8Ndu7Mjw&t=635s)
   
-  [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
+  * [Machine Learnig steps Youtube Video](https://www.youtube.com/watch?v=WXHM_i-fgGo&t=7s)
 
-  [Open the Demo Note books using Google Colaboratory](https://drive.google.com/drive/home)
+  * [Open the Demo Note books using Google Colaboratory](https://drive.google.com/drive/home)
   
-  [Demo1: Linear Regression](https://drive.google.com/file/d/1jlPVXVnAhaZbTK3SCiEh-v1AJVGjNvXC/view?usp=drive_link)
+  * [Demo1: Linear Regression](https://drive.google.com/file/d/1jlPVXVnAhaZbTK3SCiEh-v1AJVGjNvXC/view?usp=drive_link)
 
 ## Natural Language Processing (NLP)
 
