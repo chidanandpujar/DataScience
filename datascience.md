@@ -102,22 +102,17 @@ https://github.com/tulip-lab/sit742/blob/main/Jupyter/M06-Advanced/M06B-IBMDP-Ex
 
 ## Power BI:
 
-https://powerbi.microsoft.com/en-au/getting-started-with-power-bi
-
-https://powerbi.microsoft.com/en-au/what-is-power-bi/ 
-https://powerbi.microsoft.com/en-au/desktop/
-
-https://www.microsoft.com/en-au/power-platform/products/power-bi/desktop
-
-https://docs.microsoft.com/en-us/learn/certifications/power-bi-data-analyst-associate/
-
-[Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/)
-[Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)
-[Visualise data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)
-[Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/)
-
-ttps://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery.
-[Documentation](https://docs.microsoft.com/en-au/power-bi/)
+* https://powerbi.microsoft.com/en-au/getting-started-with-power-bi
+* https://powerbi.microsoft.com/en-au/what-is-power-bi/ 
+* https://powerbi.microsoft.com/en-au/desktop/
+* https://www.microsoft.com/en-au/power-platform/products/power-bi/desktop
+* https://docs.microsoft.com/en-us/learn/certifications/power-bi-data-analyst-associate/
+* [Get started with Microsoft data analytics](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/)
+* [Prepare data for analysis](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/)
+* [Visualise data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/)
+* [Data analysis in Power BI](https://docs.microsoft.com/en-us/learn/paths/perform-analytics-power-bi/)
+* ttps://community.powerbi.com/t5/Data-Stories-Gallery/bd-p/DataStoriesGallery.
+* [Documentation](https://docs.microsoft.com/en-au/power-bi/)
 
 
 
