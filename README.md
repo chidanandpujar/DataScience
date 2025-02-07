@@ -178,72 +178,72 @@ Algorithms learn through trial and error, receiving rewards or penalties (e.g., 
 
 ## Natural Language Processing (NLP)
 
-[NLP](https://github.com/chidanandpujar/DataScience/blob/main/NLP.md)
+* [NLP](https://github.com/chidanandpujar/DataScience/blob/main/NLP.md)
 
-[Basics of Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
+* [Basics of Building an AI Chatbot](https://www.mygreatlearning.com/blog/basics-of-building-an-artificial-intelligence-chatbot/)
 
-[Demo1: Text Based Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
+* [Demo1: Text Based Chatbot](https://colab.research.google.com/drive/1xilH3Sf7HTeRSvnqBLBY0rFE8V7Y-lM5?usp=drive_link)
 
-[Demo2: Text Based Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
+* [Demo2: Text Based Chatbot](https://colab.research.google.com/drive/1rg_P3YxzdYVMOJhlaSBpxjjlv0gFA9p1?usp=drive_link)
 
-[Demo3: Voice Based Chatbot](https://drive.google.com/file/d/10WEIuhjM2w2NSQoRH9FnRi1YDTjqDi3X/view?usp=sharing)
+* [Demo3: Voice Based Chatbot](https://drive.google.com/file/d/10WEIuhjM2w2NSQoRH9FnRi1YDTjqDi3X/view?usp=sharing)
 
-[TfidfVectorizer](https://www.geeksforgeeks.org/how-to-store-a-tfidfvectorizer-for-future-use-in-scikit-learn/)
+* [TfidfVectorizer](https://www.geeksforgeeks.org/how-to-store-a-tfidfvectorizer-for-future-use-in-scikit-learn/)
 
 ## Generative AI:
 
-[Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)
+* [Generative AI in a Nutshell](https://www.youtube.com/watch?v=2IK3DFHRFfw)
 
 ## Datasets:
 
-[UCI Datasets](https://archive.ics.uci.edu/datasets)
+* [UCI Datasets](https://archive.ics.uci.edu/datasets)
 
-[kaggle Datasets](https://www.kaggle.com/datasets)
+* [kaggle Datasets](https://www.kaggle.com/datasets)
 
 ## AI youtube channels:
 
-[Maths Youtube Videos](https://www.youtube.com/@ritvikmath/videos)
+* [Maths Youtube Videos](https://www.youtube.com/@ritvikmath/videos)
 
-[3blue1brown Youtube Videos](https://www.youtube.com/@3blue1brown/videos)
+* [3blue1brown Youtube Videos](https://www.youtube.com/@3blue1brown/videos)
 
-[Dr Raj Ramesh Youtube Videos](https://www.youtube.com/@RajRamesh/videos)
+* [Dr Raj Ramesh Youtube Videos](https://www.youtube.com/@RajRamesh/videos)
 
-[StatQuest Youtube Videos](https://www.youtube.com/@statquest/videos)
+* [StatQuest Youtube Videos](https://www.youtube.com/@statquest/videos)
 
-[Jeremy Howard](https://www.youtube.com/@howardjeremyp)
+* [Jeremy Howard](https://www.youtube.com/@howardjeremyp)
 
-[Henrik Kniberg](https://www.youtube.com/@henrikkniberg/videos)
+* [Henrik Kniberg](https://www.youtube.com/@henrikkniberg/videos)
 
-[codebasics Youtube Videos](https://www.youtube.com/@codebasics/videos)
+* [codebasics Youtube Videos](https://www.youtube.com/@codebasics/videos)
 
-[SIddhardhan Youtube Videos](https://www.youtube.com/@Siddhardhan/videos)
+* [SIddhardhan Youtube Videos](https://www.youtube.com/@Siddhardhan/videos)
 
-[sirajRaval Youtube Videos](https://www.youtube.com/@SirajRaval)
+* [sirajRaval Youtube Videos](https://www.youtube.com/@SirajRaval)
 
-[Eduonix Youtube Vidoes](https://www.youtube.com/@Eduonix/videos)
+* [Eduonix Youtube Vidoes](https://www.youtube.com/@Eduonix/videos)
 
-[AI Google Cloud Tech Youtube Videos](https://www.youtube.com/@googlecloudtech/videos)
+* [AI Google Cloud Tech Youtube Videos](https://www.youtube.com/@googlecloudtech/videos)
 
-[patrickJMT Youtube Videos](https://www.youtube.com/@patrickjmt/videos)
+* [patrickJMT Youtube Videos](https://www.youtube.com/@patrickjmt/videos)
 
-[Khan Academy Youtube Videos](https://www.youtube.com/@khanacademy/videos)
+* [Khan Academy Youtube Videos](https://www.youtube.com/@khanacademy/videos)
 
 
 ## References:
 
-https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
+* https://images.datacamp.com/image/upload/v1676303379/Marketing/Blog/PySpark_RDD_Cheat_Sheet.pdf
 
-https://kdd.org/conferences
+* https://kdd.org/conferences
 
-https://www.explainthatstuff.com/introduction-to-neural-networks.html
+* https://www.explainthatstuff.com/introduction-to-neural-networks.html
 
-https://www.deeplearningbook.org/
+* https://www.deeplearningbook.org/
 
-http://neuralnetworksanddeeplearning.com/about.html
+* http://neuralnetworksanddeeplearning.com/about.html
 
-https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
+* https://www.analyticsvidhya.com/blog/2018/05/essentials-of-deep-learning-trudging-into-unsupervised-deep-learning/
 
-https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
+* https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75
 
 
 ## Python Libraries/Tools
@@ -276,38 +276,38 @@ https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec7
   
   https://www.nltk.org/
 
-https://www.tensorflow.org/
+* https://www.tensorflow.org/
 
-https://keras.io/examples/
+* https://keras.io/examples/
 
-https://spacy.io/
+* https://spacy.io/
 
-https://seaborn.pydata.org/
+* https://seaborn.pydata.org/
 
 ## Books:
 
-[Deep learning textbook (Goodfellow et. al., 2016)](https://www.deeplearningbook.org/)
+* [Deep learning textbook (Goodfellow et. al., 2016)](https://www.deeplearningbook.org/)
 
-[Deep learning: an overview (Jurgen, 2015)](https://arxiv.org/abs/1404.7828)
+* [Deep learning: an overview (Jurgen, 2015)](https://arxiv.org/abs/1404.7828)
 
-[Deep learning (Michael Nielsen, 2016)](http://neuralnetworksanddeeplearning.com/)
+* [Deep learning (Michael Nielsen, 2016)](http://neuralnetworksanddeeplearning.com/)
 
-[A statistical view of deep learning (Shakir Mohamed, 2015)](https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1)
+* [A statistical view of deep learning (Shakir Mohamed, 2015)](https://olympus.mygreatlearning.com/courses/111211/files/10574749/download?verifier=9wm6hmDeb8UzCoABkwuV8keHU9eQRMuE5955Jo62&wrap=1)
 
 ## Github repo:
 
-https://github.com/tulip-lab
+* https://github.com/tulip-lab
 
-https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
+* https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
 
-https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
+* https://github.com/krishnaik06/AI-Engineer-Roadmap-2024
 
 
 ## AI Documentaries:
 
-[60Minutes Artificial Intelligence](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
+* [60Minutes Artificial Intelligence](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
 
-[The AI Energy Crisis](https://www.youtube.com/watch?v=MJQIQJYxey4)
+* [The AI Energy Crisis](https://www.youtube.com/watch?v=MJQIQJYxey4)
 
 ## [Q and A:](https://github.com/chidanandpujar/DataScience/blob/main/Q%26A.md)
 ![Aritificial Intelligence](https://github.com/chidanandpujar/DataScience/blob/main/ai_image2.png)
